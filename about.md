@@ -4,9 +4,13 @@ title: About
 permalink: /about/
 ---
 
-{% formspree site.formspree_id %}
+## Nous contacter
 
-2016, 2020 **Elaoin**  
+{% formspree site.formspree_id %}  
+
+
+----------------------------
+&copy; 2016, 2020 **Elaoin**  
 S.A.S.U. au capital de 1000€
 
 Ce site est hébergé par [GitHub Pages](https://pages.github.com)

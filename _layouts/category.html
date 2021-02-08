@@ -13,6 +13,8 @@ layout: default
     {% assign posts = paginator.posts %}
   {% elsif page.category %}
     {% assign posts = site.categories[page.category] %}
+  {% elsif page.blog %}
+    {% assign posts = site.tags.blog %}
   {% else %}
     {% assign posts = site.posts %}
   {% endif %}

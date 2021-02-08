@@ -1,5 +1,5 @@
 ---
 layout: category
-list_title: Software
+title: Software projects
 category: software
 ---

@@ -25,6 +25,9 @@ github_username:  Elaoin
 show_excerpts: true
 formspree_id: mlelknzd
 
+header_pages:
+  - about.md
+
 # Build settings
 markdown: kramdown
 theme: minima

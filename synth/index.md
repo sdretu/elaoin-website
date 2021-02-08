@@ -1,5 +1,5 @@
 ---
 layout: category
-list_title: Synthesizer modules
+title: Synthesizer modules
 category: synth
 ---

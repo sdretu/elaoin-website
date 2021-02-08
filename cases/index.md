@@ -1,5 +1,5 @@
 ---
 layout: category
-list_title: Cases
+title: Cases and woodwork
 category: cases
 ---

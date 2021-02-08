@@ -2,7 +2,7 @@
 layout: post
 title:  "Anushri Editor"
 date:   2016-09-18 10:58:18 +0100
-categories: max
+tags: max
 ---
 ![Anushri Editor](/assets/anushri-editor.png)
 

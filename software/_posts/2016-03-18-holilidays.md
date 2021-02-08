@@ -2,7 +2,7 @@
 layout: post
 title:  "Holilidays"
 date:   2016-03-18 10:58:18 +0100
-categories: website
+tags: website
 ---
 ![Holilidays](/assets/holilidays.png)
 

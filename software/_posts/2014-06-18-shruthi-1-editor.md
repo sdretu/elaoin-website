@@ -2,7 +2,7 @@
 layout: post
 title:  "Shruthi-1 Editor"
 date:   2014-06-18 10:58:18 +0100
-categories: max
+tags: max
 ---
 ![Shruthi-1 Editor](/assets/shruthi-1-editor.png)
 

@@ -1,12 +1,28 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://elaoin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://elaoin.com/" rel="alternate" type="text/html" /><updated>2021-02-09T00:04:07+01:00</updated><id>https://elaoin.com/feed.xml</id><title type="html">Elaoin</title><subtitle>Applis mobiles Android &amp; iOS,   Applications web Ruby on Rails</subtitle><entry><title type="html">SomnoDiag</title><link href="https://elaoin.com/software/2018/03/18/somnodiag.html" rel="alternate" type="text/html" title="SomnoDiag" /><published>2018-03-18T10:58:18+01:00</published><updated>2018-03-18T10:58:18+01:00</updated><id>https://elaoin.com/software/2018/03/18/somnodiag</id><content type="html" xml:base="https://elaoin.com/software/2018/03/18/somnodiag.html">&lt;p&gt;&lt;img src=&quot;/assets/somnodiag.png&quot; alt=&quot;Somnodiag&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://elaoin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://elaoin.com/" rel="alternate" type="text/html" /><updated>2021-02-10T02:00:34+01:00</updated><id>https://elaoin.com/feed.xml</id><title type="html">Elaoin</title><subtitle>Applis mobiles Android &amp; iOS,   Applications web Ruby on Rails</subtitle><entry><title type="html">SomnoDiag</title><link href="https://elaoin.com/software/2018/03/18/somnodiag.html" rel="alternate" type="text/html" title="SomnoDiag" /><published>2018-03-18T10:58:18+01:00</published><updated>2018-03-18T10:58:18+01:00</updated><id>https://elaoin.com/software/2018/03/18/somnodiag</id><content type="html" xml:base="https://elaoin.com/software/2018/03/18/somnodiag.html">&lt;p&gt;&lt;img src=&quot;/assets/somnodiag.png&quot; alt=&quot;Somnodiag&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;SomnoDiag aide les médecins aux diagnostics des troubles du sommeils.&lt;/p&gt;</content><author><name></name></author><category term="software" /><category term="website" /><summary type="html"></summary></entry><entry><title type="html">Yakolo</title><link href="https://elaoin.com/software/2017/06/18/yakolo.html" rel="alternate" type="text/html" title="Yakolo" /><published>2017-06-18T11:58:18+02:00</published><updated>2017-06-18T11:58:18+02:00</updated><id>https://elaoin.com/software/2017/06/18/yakolo</id><content type="html" xml:base="https://elaoin.com/software/2017/06/18/yakolo.html">&lt;p&gt;&lt;img src=&quot;/assets/yakolo.png&quot; alt=&quot;Yakolo&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Yakolo est une app de contrôle à distance pour une veilleuse intelligente permettant aux jeunes enfants d’acquérir la notion du temps et de bonnes habitudes de sommeil.&lt;/p&gt;</content><author><name></name></author><category term="software" /><category term="mobile" /><summary type="html"></summary></entry><entry><title type="html">Anushri Editor</title><link href="https://elaoin.com/software/2016/09/18/anushri-editor.html" rel="alternate" type="text/html" title="Anushri Editor" /><published>2016-09-18T11:58:18+02:00</published><updated>2016-09-18T11:58:18+02:00</updated><id>https://elaoin.com/software/2016/09/18/anushri-editor</id><content type="html" xml:base="https://elaoin.com/software/2016/09/18/anushri-editor.html">&lt;p&gt;&lt;img src=&quot;/assets/anushri-editor.png&quot; alt=&quot;Anushri Editor&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;This is a midi editor for &lt;a href=&quot;https://mutable-instruments.net&quot;&gt;Mutable Instrument&lt;/a&gt;’s original Anushri DIY synthesizer. It is done fully in MAX MSP and compiled as a standalone app for OSX.&lt;/p&gt;
+&lt;p&gt;This is a software MIDI editor for &lt;a href=&quot;https://mutable-instruments.net&quot;&gt;Mutable Instruments&lt;/a&gt;’s awesome DIY synthesizer-beatbox, the Anushri.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/assets/Anushri_Editor.app.zip&quot;&gt;Get the App package for OSX&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="software" /><category term="max" /><summary type="html"></summary></entry><entry><title type="html">Runicity</title><link href="https://elaoin.com/software/2016/06/18/runicity.html" rel="alternate" type="text/html" title="Runicity" /><published>2016-06-18T11:58:18+02:00</published><updated>2016-06-18T11:58:18+02:00</updated><id>https://elaoin.com/software/2016/06/18/runicity</id><content type="html" xml:base="https://elaoin.com/software/2016/06/18/runicity.html">&lt;p&gt;&lt;img src=&quot;/assets/runicity-1.png&quot; alt=&quot;Runicity running&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;This stand-alone software was entirely done using MAX 6 software from Cycling74.&lt;/p&gt;
+
+&lt;p&gt;It allows edition of all the Anushri parameters from a single screen through a MIDI connection, including parameters of the drum synth engine which are not accessible from the Anushri interface.&lt;/p&gt;
+
+&lt;p&gt;It also offers an easy access to programmin drum patterns in x0x style.&lt;/p&gt;
+
+&lt;p&gt;It can send and receive system data in SYSEX format.&lt;/p&gt;
+
+&lt;p&gt;Last but not least, the editor is open-source and the MAX project files can be downloaded from my GitHub.&lt;/p&gt;
+
+&lt;h2 id=&quot;downloads&quot;&gt;Downloads&lt;/h2&gt;
+&lt;p&gt;source on &lt;a href=&quot;https://github.com/sdretu/Anushri-Editor&quot;&gt;Github&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/Anushri_Editor.app.zip&quot;&gt;App package for OSX&lt;/a&gt;, unzip and just drag and drop to your Applications folder.&lt;/p&gt;
+
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+&lt;p&gt;Visit &lt;a href=&quot;https://mutable-instruments.net&quot;&gt;Mutable Instruments&lt;/a&gt; website, who makes the Anushri synthesizer.&lt;/p&gt;</content><author><name></name></author><category term="software" /><category term="max" /><summary type="html"></summary></entry><entry><title type="html">Runicity</title><link href="https://elaoin.com/software/2016/06/18/runicity.html" rel="alternate" type="text/html" title="Runicity" /><published>2016-06-18T11:58:18+02:00</published><updated>2016-06-18T11:58:18+02:00</updated><id>https://elaoin.com/software/2016/06/18/runicity</id><content type="html" xml:base="https://elaoin.com/software/2016/06/18/runicity.html">&lt;p&gt;&lt;img src=&quot;/assets/runicity-1.png&quot; alt=&quot;Runicity running&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/runicity-2.png&quot; alt=&quot;Runicity runs list&quot; /&gt;&lt;/p&gt;
 
@@ -14,10 +30,39 @@
 
 &lt;p&gt;Holilidays propose des colocation d’hébergements de vacances de qualité dans les Alpes.&lt;/p&gt;</content><author><name></name></author><category term="software" /><category term="website" /><summary type="html"></summary></entry><entry><title type="html">OSCream</title><link href="https://elaoin.com/software/2015/06/18/oscream.html" rel="alternate" type="text/html" title="OSCream" /><published>2015-06-18T11:58:18+02:00</published><updated>2015-06-18T11:58:18+02:00</updated><id>https://elaoin.com/software/2015/06/18/oscream</id><content type="html" xml:base="https://elaoin.com/software/2015/06/18/oscream.html">&lt;p&gt;&lt;img src=&quot;/assets/oscream.png&quot; alt=&quot;OSCream&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;OSCream est une application musicale reproduisant le fonctionnement des contrôleurs Monome Grid et Arc.&lt;/p&gt;</content><author><name></name></author><category term="software" /><category term="mobile" /><summary type="html"></summary></entry><entry><title type="html">Shruthi-1 Editor</title><link href="https://elaoin.com/software/2014/06/18/shruthi-1-editor.html" rel="alternate" type="text/html" title="Shruthi-1 Editor" /><published>2014-06-18T11:58:18+02:00</published><updated>2014-06-18T11:58:18+02:00</updated><id>https://elaoin.com/software/2014/06/18/shruthi-1-editor</id><content type="html" xml:base="https://elaoin.com/software/2014/06/18/shruthi-1-editor.html">&lt;p&gt;&lt;img src=&quot;/assets/shruthi-1-editor.png&quot; alt=&quot;Shruthi-1 Editor&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;OSCream est une application musicale reproduisant le fonctionnement des contrôleurs Monome Grid et Arc.&lt;/p&gt;
 
-&lt;p&gt;This is a midi editor for &lt;a href=&quot;https://mutable-instruments.net&quot;&gt;Mutable Instrument&lt;/a&gt;’s original Shruthi-1 DIY synthesizer. It is done fully in MAX MSP and compiled as a standalone app for OSX.&lt;/p&gt;
+&lt;h2 id=&quot;oscream-server&quot;&gt;OSCream Server&lt;/h2&gt;
+&lt;p&gt;OSCream Server is used to forward OSC Message between TCP protocol and UDP protocol.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/assets/Shruthi-1_Editor.app.zip&quot;&gt;Get the App package for OSX&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="software" /><category term="max" /><summary type="html"></summary></entry><entry><title type="html">Kipas</title><link href="https://elaoin.com/software/2014/03/18/kipas.html" rel="alternate" type="text/html" title="Kipas" /><published>2014-03-18T10:58:18+01:00</published><updated>2014-03-18T10:58:18+01:00</updated><id>https://elaoin.com/software/2014/03/18/kipas</id><content type="html" xml:base="https://elaoin.com/software/2014/03/18/kipas.html">&lt;p&gt;&lt;img src=&quot;/assets/kipas.png&quot; alt=&quot;Kipas&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;On the PlayBook, OSCream is developped in Adobe AIR environment, for security reasons UDP communication is disabled in AIR on mobile devices, so OSCream send its OSC Messages over TCP. But most monome applications are designed to exchange OSC messages over UDP, so a tool is needed to allow application to communicate with the PlayBook, OSCreamServer does just that.&lt;/p&gt;
 
-&lt;p&gt;Kipas en un gestionnaire de mot de passe sécurisé qui permet de lire les bases de données Keepass sur les smartphones BlackBerry.&lt;/p&gt;</content><author><name></name></author><category term="software" /><category term="mobile" /><summary type="html"></summary></entry></feed>
+&lt;p&gt;OSCream Server is programmed in Java, so it will run on any machine where a Java Runtime Environment is available, you will need Java version 1.6. OSCreamServer is distributed as a single JAR file, to run OSCreamServer, simply double-click on the JAR file icon.&lt;/p&gt;
+
+&lt;h2 id=&quot;downloads&quot;&gt;Downloads&lt;/h2&gt;
+&lt;p&gt;latest version is 1.1, download &lt;a title=&quot;OSCreamServer-1.1.jar&quot; href=&quot;https://github.com/downloads/sdretu/OSCream-Server/OSCreamServer-1.1.jar&quot;&gt;OSCreamServer-1.1.jar&lt;/a&gt; now from our GitHub repository.
+version 1.0, download &lt;a title=&quot;OSCreamServer-1.0.jar&quot; href=&quot;https://github.com/downloads/sdretu/OSCream-Server/OSCreamServer-1.0.jar&quot;&gt;OSCreamServer-1.0.jar&lt;/a&gt; now from our GitHub repository.&lt;/p&gt;
+
+&lt;p&gt;OSCream Server source code is available on &lt;a title=&quot;OSCream Server on GitHub&quot; href=&quot;https://github.com/sdretu/OSCream-Server&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="software" /><category term="mobile" /><summary type="html"></summary></entry><entry><title type="html">Shruthi-1 Editor</title><link href="https://elaoin.com/software/2014/06/18/shruthi-1-editor.html" rel="alternate" type="text/html" title="Shruthi-1 Editor" /><published>2014-06-18T11:58:18+02:00</published><updated>2014-06-18T11:58:18+02:00</updated><id>https://elaoin.com/software/2014/06/18/shruthi-1-editor</id><content type="html" xml:base="https://elaoin.com/software/2014/06/18/shruthi-1-editor.html">&lt;p&gt;&lt;img src=&quot;/assets/shruthi-1-editor.png&quot; alt=&quot;Shruthi-1 Editor&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is a software MIDI editor for &lt;a href=&quot;https://mutable-instruments.net&quot;&gt;Mutable Instruments&lt;/a&gt;’s awesome DIY synthesizer, the Shruthi-1.&lt;/p&gt;
+
+&lt;p&gt;This stand-alone software was entirely done using MAX 6 software from Cycling74.&lt;/p&gt;
+
+&lt;p&gt;It allows edition of all the Shruthi-1 parameters from a single screen through a MIDI connection.&lt;/p&gt;
+
+&lt;p&gt;It can send and receive patch data in SYSEX format.&lt;/p&gt;
+
+&lt;p&gt;Last but not least, the editor is open-source and the MAX project files can be downloaded from my GitHub.&lt;/p&gt;
+
+&lt;h2 id=&quot;downloads&quot;&gt;Downloads&lt;/h2&gt;
+&lt;p&gt;Download the source from &lt;a href=&quot;https://github.com/sdretu/Shruthi-1-Editor&quot;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/Shruthi-1_Editor.app.zip&quot;&gt;Download the App package for OSX&lt;/a&gt;, unzip and just drag and drop to your Applications folder.&lt;/p&gt;
+
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+&lt;p&gt;Visit &lt;a href=&quot;https://mutable-instruments.net&quot;&gt;Mutable Instruments&lt;/a&gt; website, who makes the Shruthi-1 synthesizer.&lt;/p&gt;
+
+&lt;p&gt;Project page in &lt;a href=&quot;http://cycling74.com/toolbox/shruthi-1-editor&quot;&gt;Cycling 74 toolbox&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="software" /><category term="max" /><summary type="html"></summary></entry><entry><title type="html">Kipas</title><link href="https://elaoin.com/software/2014/03/18/kipas.html" rel="alternate" type="text/html" title="Kipas" /><published>2014-03-18T10:58:18+01:00</published><updated>2014-03-18T10:58:18+01:00</updated><id>https://elaoin.com/software/2014/03/18/kipas</id><content type="html" xml:base="https://elaoin.com/software/2014/03/18/kipas.html">&lt;p&gt;&lt;img src=&quot;/assets/kipas.png&quot; alt=&quot;Kipas&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Kipas est un gestionnaire de mot de passe sécurisé qui permet de lire les bases de données Keepass sur les smartphones BlackBerry.&lt;/p&gt;</content><author><name></name></author><category term="software" /><category term="mobile" /><summary type="html"></summary></entry></feed>

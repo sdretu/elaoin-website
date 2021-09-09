@@ -27,6 +27,7 @@ formspree_id: mlelknzd
 
 header_pages:
   - about.md
+  - blog.md
 
 # Build settings
 markdown: kramdown

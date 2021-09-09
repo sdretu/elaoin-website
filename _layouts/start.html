@@ -10,6 +10,9 @@
     {{ content }}
 
     <style type="text/css" media="screen">
+      .site-nav {
+        z-index: 3;
+      }
       .start-page .switch {
         width: 100%;
         display: -webkit-box;
@@ -84,7 +87,7 @@
       }
       </style>
 
-      <a class="switch-link {{ category[0] }}" href="{{ site.url }}/{{ category[0] }}">
+      <a class="switch-link {{ category[0] }}" href="/{{ category[0] }}">
         <div class="bg"></div>
         <span class="title">
           {{ category[0] }}

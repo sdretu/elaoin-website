@@ -22,14 +22,15 @@ Download and install the Max5 runtime environment. We need it to run Press Cafe.
 
 Unzip Press cafe to the directory of your choice, run the application by launching the file _Press Cafe.maxpat, this will launch Press Cafe inside the Max5 Runtime.
 
-[caption id="attachment_549" align="aligncenter" width="300" caption="Press Cafe application running in Max5 Runtime. Note the prefix in the upper right hand corner."]<a href="http://www.smugrik.org/wp-content/uploads/2011/03/Press_Cafe.png"><img class="size-medium wp-image-549" title="Press Cafe v2.1 in Max5 Runtime" src="http://www.smugrik.org/wp-content/uploads/2011/03/Press_Cafe-300x168.png" alt="Press Cafe" width="300" height="168" /></a>[/caption]
+[Press Cafe application running in Max5 Runtime. Note the prefix in the upper right hand corner.](/assets/Press_Cafe.png)
 
 <h2>Connect OSCreamServer</h2>
 <ol>
   <li>Run <a title="OSCream Server" href="http://www.smugrik.org/osc/oscream-server/">OSCream Server</a> on your computer, if your JAVA runtime environment is properly configured, just doubleclicking the OSCreamServer.jar file will launch the app, no need to install anything.</li>
   <li>You can leave all the default values, in the PlayBook TCP connection part, note the Port number. Click the Connect button.</li>
 </ol>
-[caption id="attachment_550" align="aligncenter" width="300" caption="OSCreamServer on Windows 7"]<a href="http://www.smugrik.org/wp-content/uploads/2011/03/OSCreamServer.png"><img class="size-medium wp-image-550" title="OSCreamServer" src="http://www.smugrik.org/wp-content/uploads/2011/03/OSCreamServer-300x236.png" alt="" width="300" height="236" /></a>[/caption]
+[OSCreamServer on Windows 7](/assets/)OSCreamServer.png)
+
 <h2>Connect the PlayBook</h2>
 <ol>
   <li>Run OSCream on your PlayBook, Swipe-Down the configuration menu from the top of the screen.</li>
@@ -39,7 +40,8 @@ Unzip Press cafe to the directory of your choice, run the application by launchi
   <li>Switch the connection ON.</li>
   <li>Press any button on the PlayBook, hear the music played on your computer by Press Cafe :-)</li>
 </ol>
-[caption id="attachment_551" align="aligncenter" width="300" caption="Press Cafe being played on the blackBerry PlayBook"]<a href="http://www.smugrik.org/wp-content/uploads/2011/03/PlayBookPressCafe.png"><img class="size-medium wp-image-551" title="PlayBook Press Cafe" src="http://www.smugrik.org/wp-content/uploads/2011/03/PlayBookPressCafe-300x176.png" alt="PlayBook Press Cafe" width="300" height="176" /></a>[/caption]
+[Press Cafe being played on the blackBerry PlayBook](/assets/PlayBookPressCafe.png")
+
 <h2>Going further</h2>
 The <a title="monome.org" href="http://monome.org/">Monome</a> website is the best place to find lots of information about everything Monome. It has a special page referencing <a title="Monome Applications" href="http://docs.monome.org/doku.php?id=app#application_list">all monome applications</a>.
 

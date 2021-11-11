@@ -29,7 +29,8 @@ Unzip Press cafe to the directory of your choice, run the application by launchi
   <li>Run <a title="OSCream Server" href="http://www.smugrik.org/osc/oscream-server/">OSCream Server</a> on your computer, if your JAVA runtime environment is properly configured, just doubleclicking the OSCreamServer.jar file will launch the app, no need to install anything.</li>
   <li>You can leave all the default values, in the PlayBook TCP connection part, note the Port number. Click the Connect button.</li>
 </ol>
-[OSCreamServer on Windows 7](/assets/)OSCreamServer.png)
+
+[OSCreamServer on Windows 7](/assets/OSCreamServer.png)
 
 <h2>Connect the PlayBook</h2>
 <ol>
@@ -40,6 +41,7 @@ Unzip Press cafe to the directory of your choice, run the application by launchi
   <li>Switch the connection ON.</li>
   <li>Press any button on the PlayBook, hear the music played on your computer by Press Cafe :-)</li>
 </ol>
+
 [Press Cafe being played on the blackBerry PlayBook](/assets/PlayBookPressCafe.png")
 
 <h2>Going further</h2>

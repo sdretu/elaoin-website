@@ -4,8 +4,6 @@ title:  "OSCream published on BlackBerry AppWorld"
 date:   2011-03-24 15:43:18 +0100
 tags: blog oscream
 ---
-I did it!
-
 I just finished the submission process for the first version of OSCream for BlackBerry PlayBook. Now waiting for approval from AppWorld.
 
 It has been quite challenging to learn development for a new platform, I had never used Adobe Flex nor ActionScript before, and I really enjoyed it. I hope you’ll enjoy the application too :-)

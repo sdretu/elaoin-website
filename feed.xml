@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="https://elaoin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://elaoin.com/" rel="alternate" type="text/html" /><updated>2021-11-12T12:06:44+01:00</updated><id>https://elaoin.com/feed.xml</id><title type="html">Elaoin</title><subtitle>Applis mobiles Android &amp; iOS,   Applications web Ruby on Rails</subtitle><entry><title type="html">SOIC-DIP14 adapter</title><link href="https://elaoin.com/synth/2021/02/10/SOIC-DIP14-adapter.html" rel="alternate" type="text/html" title="SOIC-DIP14 adapter" /><published>2021-02-10T15:43:18+01:00</published><updated>2021-02-10T15:43:18+01:00</updated><id>https://elaoin.com/synth/2021/02/10/SOIC-DIP14-adapter</id><content type="html" xml:base="https://elaoin.com/synth/2021/02/10/SOIC-DIP14-adapter.html">&lt;p&gt;&lt;img src=&quot;/assets/SOIC-adapter.jpg&quot; alt=&quot;A few adapters&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="https://elaoin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://elaoin.com/" rel="alternate" type="text/html" /><updated>2021-11-12T12:11:12+01:00</updated><id>https://elaoin.com/feed.xml</id><title type="html">Elaoin</title><subtitle>Applis mobiles Android &amp; iOS,   Applications web Ruby on Rails</subtitle><entry><title type="html">SOIC-DIP14 adapter</title><link href="https://elaoin.com/synth/2021/02/10/SOIC-DIP14-adapter.html" rel="alternate" type="text/html" title="SOIC-DIP14 adapter" /><published>2021-02-10T15:43:18+01:00</published><updated>2021-02-10T15:43:18+01:00</updated><id>https://elaoin.com/synth/2021/02/10/SOIC-DIP14-adapter</id><content type="html" xml:base="https://elaoin.com/synth/2021/02/10/SOIC-DIP14-adapter.html">&lt;p&gt;&lt;img src=&quot;/assets/SOIC-adapter.jpg&quot; alt=&quot;A few adapters&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;SOICDIP14 adaptersI originally designed this small SOIC-DIP14 adapter to use LM3046 (available from mouser) as replacement for CA3046.&lt;/p&gt;
 
@@ -60,33 +60,7 @@ Eurorack&lt;/p&gt;
 
 &lt;p&gt;The module on &lt;a href=&quot;http://www.modulargrid.net/e/other-unknown-triple-attenuateur-melangeur&quot;&gt;ModularGrid&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="synth" /><category term="eurorack" /><category term="utility" /><summary type="html"></summary></entry><entry><title type="html">SomnoDiag</title><link href="https://elaoin.com/software/2018/03/18/somnodiag.html" rel="alternate" type="text/html" title="SomnoDiag" /><published>2018-03-18T10:58:18+01:00</published><updated>2018-03-18T10:58:18+01:00</updated><id>https://elaoin.com/software/2018/03/18/somnodiag</id><content type="html" xml:base="https://elaoin.com/software/2018/03/18/somnodiag.html">&lt;p&gt;&lt;img src=&quot;/assets/somnodiag.png&quot; alt=&quot;Somnodiag&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;SomnoDiag aide les médecins aux diagnostics des troubles du sommeils.&lt;/p&gt;</content><author><name></name></author><category term="software" /><category term="website" /><summary type="html"></summary></entry><entry><title type="html">Yakolo</title><link href="https://elaoin.com/software/2017/06/18/yakolo.html" rel="alternate" type="text/html" title="Yakolo" /><published>2017-06-18T11:58:18+02:00</published><updated>2017-06-18T11:58:18+02:00</updated><id>https://elaoin.com/software/2017/06/18/yakolo</id><content type="html" xml:base="https://elaoin.com/software/2017/06/18/yakolo.html">&lt;p&gt;&lt;img src=&quot;/assets/yakolo.png&quot; alt=&quot;Yakolo&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Yakolo est une app de contrôle à distance pour une veilleuse intelligente permettant aux jeunes enfants d’acquérir la notion du temps et de bonnes habitudes de sommeil.&lt;/p&gt;</content><author><name></name></author><category term="software" /><category term="mobile" /><summary type="html"></summary></entry><entry><title type="html">Anushri Editor</title><link href="https://elaoin.com/software/2016/09/18/anushri-editor.html" rel="alternate" type="text/html" title="Anushri Editor" /><published>2016-09-18T11:58:18+02:00</published><updated>2016-09-18T11:58:18+02:00</updated><id>https://elaoin.com/software/2016/09/18/anushri-editor</id><content type="html" xml:base="https://elaoin.com/software/2016/09/18/anushri-editor.html">&lt;p&gt;&lt;img src=&quot;/assets/anushri-editor.png&quot; alt=&quot;Anushri Editor&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;This is a software MIDI editor for &lt;a href=&quot;https://mutable-instruments.net&quot;&gt;Mutable Instruments&lt;/a&gt;’s awesome DIY synthesizer-beatbox, the Anushri.&lt;/p&gt;
-
-&lt;p&gt;This stand-alone software was entirely done using MAX 6 software from Cycling74.&lt;/p&gt;
-
-&lt;p&gt;It allows edition of all the Anushri parameters from a single screen through a MIDI connection, including parameters of the drum synth engine which are not accessible from the Anushri interface.&lt;/p&gt;
-
-&lt;p&gt;It also offers an easy access to programmin drum patterns in x0x style.&lt;/p&gt;
-
-&lt;p&gt;It can send and receive system data in SYSEX format.&lt;/p&gt;
-
-&lt;p&gt;Last but not least, the editor is open-source and the MAX project files can be downloaded from my GitHub.&lt;/p&gt;
-
-&lt;h2 id=&quot;downloads&quot;&gt;Downloads&lt;/h2&gt;
-&lt;p&gt;source on &lt;a href=&quot;https://github.com/sdretu/Anushri-Editor&quot;&gt;Github&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/assets/Anushri_Editor.app.zip&quot;&gt;App package for OSX&lt;/a&gt;, unzip and just drag and drop to your Applications folder.&lt;/p&gt;
-
-&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
-&lt;p&gt;Visit &lt;a href=&quot;https://mutable-instruments.net&quot;&gt;Mutable Instruments&lt;/a&gt; website, who makes the Anushri synthesizer.&lt;/p&gt;</content><author><name></name></author><category term="software" /><category term="max" /><summary type="html"></summary></entry><entry><title type="html">Runicity</title><link href="https://elaoin.com/software/2016/06/18/runicity.html" rel="alternate" type="text/html" title="Runicity" /><published>2016-06-18T11:58:18+02:00</published><updated>2016-06-18T11:58:18+02:00</updated><id>https://elaoin.com/software/2016/06/18/runicity</id><content type="html" xml:base="https://elaoin.com/software/2016/06/18/runicity.html">&lt;p&gt;&lt;img src=&quot;/assets/runicity-1.png&quot; alt=&quot;Runicity running&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/runicity-2.png&quot; alt=&quot;Runicity runs list&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Runicity est une app de course à pieds vous permettant de courir contre vos amis sur des parcours prédéfinis.&lt;/p&gt;</content><author><name></name></author><category term="software" /><category term="mobile" /><summary type="html"></summary></entry><entry><title type="html">OSCream</title><link href="https://elaoin.com/software/2015/06/18/oscream.html" rel="alternate" type="text/html" title="OSCream" /><published>2015-06-18T11:58:18+02:00</published><updated>2015-06-18T11:58:18+02:00</updated><id>https://elaoin.com/software/2015/06/18/oscream</id><content type="html" xml:base="https://elaoin.com/software/2015/06/18/oscream.html">&lt;p&gt;&lt;img src=&quot;/assets/oscream.png&quot; alt=&quot;OSCream&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;SomnoDiag aide les médecins aux diagnostics des troubles du sommeils.&lt;/p&gt;</content><author><name></name></author><category term="software" /><category term="website" /><summary type="html"></summary></entry><entry><title type="html">OSCream</title><link href="https://elaoin.com/software/2017/06/18/oscream.html" rel="alternate" type="text/html" title="OSCream" /><published>2017-06-18T11:58:18+02:00</published><updated>2017-06-18T11:58:18+02:00</updated><id>https://elaoin.com/software/2017/06/18/oscream</id><content type="html" xml:base="https://elaoin.com/software/2017/06/18/oscream.html">&lt;p&gt;&lt;img src=&quot;/assets/oscream.png&quot; alt=&quot;OSCream&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;OSCream est une application musicale reproduisant le fonctionnement des contrôleurs Monome Grid et Arc.&lt;/p&gt;
 
@@ -130,7 +104,33 @@ version 1.0, download &lt;a title=&quot;OSCreamServer-1.0.jar&quot; href=&quot;h
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;/2011/03/24/oscream-published-on-blackberry-appworld.html&quot;&gt;OSCream published on BlackBerry AppWorld&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="software" /><category term="mobile" /><summary type="html"></summary></entry><entry><title type="html">Shruthi-1 Editor</title><link href="https://elaoin.com/software/2014/06/18/shruthi-1-editor.html" rel="alternate" type="text/html" title="Shruthi-1 Editor" /><published>2014-06-18T11:58:18+02:00</published><updated>2014-06-18T11:58:18+02:00</updated><id>https://elaoin.com/software/2014/06/18/shruthi-1-editor</id><content type="html" xml:base="https://elaoin.com/software/2014/06/18/shruthi-1-editor.html">&lt;p&gt;&lt;img src=&quot;/assets/shruthi-1-editor.png&quot; alt=&quot;Shruthi-1 Editor&quot; /&gt;&lt;/p&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="software" /><category term="mobile" /><summary type="html"></summary></entry><entry><title type="html">Anushri Editor</title><link href="https://elaoin.com/software/2016/09/18/anushri-editor.html" rel="alternate" type="text/html" title="Anushri Editor" /><published>2016-09-18T11:58:18+02:00</published><updated>2016-09-18T11:58:18+02:00</updated><id>https://elaoin.com/software/2016/09/18/anushri-editor</id><content type="html" xml:base="https://elaoin.com/software/2016/09/18/anushri-editor.html">&lt;p&gt;&lt;img src=&quot;/assets/anushri-editor.png&quot; alt=&quot;Anushri Editor&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is a software MIDI editor for &lt;a href=&quot;https://mutable-instruments.net&quot;&gt;Mutable Instruments&lt;/a&gt;’s awesome DIY synthesizer-beatbox, the Anushri.&lt;/p&gt;
+
+&lt;p&gt;This stand-alone software was entirely done using MAX 6 software from Cycling74.&lt;/p&gt;
+
+&lt;p&gt;It allows edition of all the Anushri parameters from a single screen through a MIDI connection, including parameters of the drum synth engine which are not accessible from the Anushri interface.&lt;/p&gt;
+
+&lt;p&gt;It also offers an easy access to programmin drum patterns in x0x style.&lt;/p&gt;
+
+&lt;p&gt;It can send and receive system data in SYSEX format.&lt;/p&gt;
+
+&lt;p&gt;Last but not least, the editor is open-source and the MAX project files can be downloaded from my GitHub.&lt;/p&gt;
+
+&lt;h2 id=&quot;downloads&quot;&gt;Downloads&lt;/h2&gt;
+&lt;p&gt;source on &lt;a href=&quot;https://github.com/sdretu/Anushri-Editor&quot;&gt;Github&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/Anushri_Editor.app.zip&quot;&gt;App package for OSX&lt;/a&gt;, unzip and just drag and drop to your Applications folder.&lt;/p&gt;
+
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+&lt;p&gt;Visit &lt;a href=&quot;https://mutable-instruments.net&quot;&gt;Mutable Instruments&lt;/a&gt; website, who makes the Anushri synthesizer.&lt;/p&gt;</content><author><name></name></author><category term="software" /><category term="max" /><summary type="html"></summary></entry><entry><title type="html">Yakolo</title><link href="https://elaoin.com/software/2016/06/18/yakolo.html" rel="alternate" type="text/html" title="Yakolo" /><published>2016-06-18T11:58:18+02:00</published><updated>2016-06-18T11:58:18+02:00</updated><id>https://elaoin.com/software/2016/06/18/yakolo</id><content type="html" xml:base="https://elaoin.com/software/2016/06/18/yakolo.html">&lt;p&gt;&lt;img src=&quot;/assets/yakolo.png&quot; alt=&quot;Yakolo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Yakolo est une app de contrôle à distance pour une veilleuse intelligente permettant aux jeunes enfants d’acquérir la notion du temps et de bonnes habitudes de sommeil.&lt;/p&gt;</content><author><name></name></author><category term="software" /><category term="mobile" /><summary type="html"></summary></entry><entry><title type="html">Runicity</title><link href="https://elaoin.com/software/2016/06/18/runicity.html" rel="alternate" type="text/html" title="Runicity" /><published>2016-06-18T11:58:18+02:00</published><updated>2016-06-18T11:58:18+02:00</updated><id>https://elaoin.com/software/2016/06/18/runicity</id><content type="html" xml:base="https://elaoin.com/software/2016/06/18/runicity.html">&lt;p&gt;&lt;img src=&quot;/assets/runicity-1.png&quot; alt=&quot;Runicity running&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/runicity-2.png&quot; alt=&quot;Runicity runs list&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Runicity est une app de course à pieds vous permettant de courir contre vos amis sur des parcours prédéfinis.&lt;/p&gt;</content><author><name></name></author><category term="software" /><category term="mobile" /><summary type="html"></summary></entry><entry><title type="html">Shruthi-1 Editor</title><link href="https://elaoin.com/software/2014/06/18/shruthi-1-editor.html" rel="alternate" type="text/html" title="Shruthi-1 Editor" /><published>2014-06-18T11:58:18+02:00</published><updated>2014-06-18T11:58:18+02:00</updated><id>https://elaoin.com/software/2014/06/18/shruthi-1-editor</id><content type="html" xml:base="https://elaoin.com/software/2014/06/18/shruthi-1-editor.html">&lt;p&gt;&lt;img src=&quot;/assets/shruthi-1-editor.png&quot; alt=&quot;Shruthi-1 Editor&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;This is a software MIDI editor for &lt;a href=&quot;https://mutable-instruments.net&quot;&gt;Mutable Instruments&lt;/a&gt;’s awesome DIY synthesizer, the Shruthi-1.&lt;/p&gt;
 

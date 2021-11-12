@@ -13,9 +13,9 @@ This is a simple 3 way mixer, with a passive attenuator for each of the three in
 
 ## Specifications
 
-6HP wide
-Eurorack standard compliant
-Skiff friendly (2cm deep including power connector)
+* 6HP wide
+* Eurorack standard compliant
+* Skiff friendly (2cm deep including power connector)
 
 ## Build Instructions
 
@@ -27,15 +27,15 @@ See in download section to get the sources from GitHub
 
 ## BOM
 
-7 Erthenvar jacks
-4 9mm pots (100k lin or log)
-5 100K resistors
-2 47K resistors
-1 330r resistor
-2 100n caps
-2 47pf caps
-1 tl072
-1 euro power header 2 * 5
+* 7 Erthenvar jacks
+* 4 9mm pots (100k lin or log)
+* 5 100K resistors
+* 2 47K resistors
+* 1 330r resistor
+* 2 100n caps
+* 2 47pf caps
+* 1 tl072
+* 1 euro power header 2 * 5
 
 ## Links
 

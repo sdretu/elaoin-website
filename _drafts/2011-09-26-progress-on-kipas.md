@@ -11,7 +11,9 @@ I baked a few screenshots from the Beta, taken from the real-world PlayBook (I l
 <!--more-->
 
 ![KiPass Beta Welcome Screen on the PlayBook](/assets/kipas1.jpg)
+
 ![Typing Password](/assets/kipas2.jpg)
+
 ![Display an Entry](/assets/kipas3.jpg)
 
 DB decrypting and encrypting is done, supports all password and/or keyfile method, support will be limited to KeePass 1.40 series for a start, also only AES is supported now, I will try to have TwoFish done as soon as possible, but I don’t wan’t to delay the release too much, so if TwoFish encryption is not ready for release in beginning of October, it will come in a later update.

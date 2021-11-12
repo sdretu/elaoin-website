@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="https://elaoin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://elaoin.com/" rel="alternate" type="text/html" /><updated>2021-11-12T09:52:24+01:00</updated><id>https://elaoin.com/feed.xml</id><title type="html">Elaoin</title><subtitle>Applis mobiles Android &amp; iOS,   Applications web Ruby on Rails</subtitle><entry><title type="html">SOIC-DIP14 adapter</title><link href="https://elaoin.com/synth/2021/02/10/SOIC-DIP14-adapter.html" rel="alternate" type="text/html" title="SOIC-DIP14 adapter" /><published>2021-02-10T15:43:18+01:00</published><updated>2021-02-10T15:43:18+01:00</updated><id>https://elaoin.com/synth/2021/02/10/SOIC-DIP14-adapter</id><content type="html" xml:base="https://elaoin.com/synth/2021/02/10/SOIC-DIP14-adapter.html">&lt;p&gt;&lt;img src=&quot;/assets/SOIC-adapter.jpg&quot; alt=&quot;A few adapters&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="https://elaoin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://elaoin.com/" rel="alternate" type="text/html" /><updated>2021-11-12T12:04:24+01:00</updated><id>https://elaoin.com/feed.xml</id><title type="html">Elaoin</title><subtitle>Applis mobiles Android &amp; iOS,   Applications web Ruby on Rails</subtitle><entry><title type="html">SOIC-DIP14 adapter</title><link href="https://elaoin.com/synth/2021/02/10/SOIC-DIP14-adapter.html" rel="alternate" type="text/html" title="SOIC-DIP14 adapter" /><published>2021-02-10T15:43:18+01:00</published><updated>2021-02-10T15:43:18+01:00</updated><id>https://elaoin.com/synth/2021/02/10/SOIC-DIP14-adapter</id><content type="html" xml:base="https://elaoin.com/synth/2021/02/10/SOIC-DIP14-adapter.html">&lt;p&gt;&lt;img src=&quot;/assets/SOIC-adapter.jpg&quot; alt=&quot;A few adapters&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;SOICDIP14 adaptersI originally designed this small SOIC-DIP14 adapter to use LM3046 (available from mouser) as replacement for CA3046.&lt;/p&gt;
 
@@ -90,6 +90,10 @@ Eurorack&lt;/p&gt;
 
 &lt;p&gt;OSCream est une application musicale reproduisant le fonctionnement des contrôleurs Monome Grid et Arc.&lt;/p&gt;
 
+&lt;video width=&quot;400&quot; controls=&quot;&quot; autoplay=&quot;&quot;&gt;
+    &lt;source src=&quot;/assets/oscream-edm.mov&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
+
 &lt;h2 id=&quot;oscream-server&quot;&gt;OSCream Server&lt;/h2&gt;
 &lt;p&gt;OSCream Server is used to forward OSC Message between TCP protocol and UDP protocol.&lt;/p&gt;
 
@@ -98,6 +102,8 @@ Eurorack&lt;/p&gt;
 &lt;p&gt;OSCream Server is programmed in Java, so it will run on any machine where a Java Runtime Environment is available, you will need Java version 1.6. OSCreamServer is distributed as a single JAR file, to run OSCreamServer, simply double-click on the JAR file icon.&lt;/p&gt;
 
 &lt;h2 id=&quot;downloads&quot;&gt;Downloads&lt;/h2&gt;
+&lt;p&gt;OSCream is still available on Android, though it is not supported anymore. &lt;a href=&quot;https://market.android.com/details?id=air.org.smugrik.oscream&quot;&gt;Get it on Google Play&lt;/a&gt;&lt;/p&gt;
+
 &lt;p&gt;latest version is 1.1, download &lt;a title=&quot;OSCreamServer-1.1.jar&quot; href=&quot;https://github.com/downloads/sdretu/OSCream-Server/OSCreamServer-1.1.jar&quot;&gt;OSCreamServer-1.1.jar&lt;/a&gt; now from our GitHub repository.
 version 1.0, download &lt;a title=&quot;OSCreamServer-1.0.jar&quot; href=&quot;https://github.com/downloads/sdretu/OSCream-Server/OSCreamServer-1.0.jar&quot;&gt;OSCreamServer-1.0.jar&lt;/a&gt; now from our GitHub repository.&lt;/p&gt;
 
@@ -106,6 +112,12 @@ version 1.0, download &lt;a title=&quot;OSCreamServer-1.0.jar&quot; href=&quot;h
 &lt;h2 id=&quot;related-blog-articles&quot;&gt;Related blog articles&lt;/h2&gt;
 
 &lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;/2014/04/20/oscream-discontinued.html&quot;&gt;OSCream discontinued&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;/2012/01/08/oscream-lands-on-android.html&quot;&gt;OSCream lands on Android&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;/2011/04/12/monome-arc-surfaces-for-oscream.html&quot;&gt;Monome Arc surfaces for OSCream&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
@@ -138,14 +150,12 @@ version 1.0, download &lt;a title=&quot;OSCreamServer-1.0.jar&quot; href=&quot;h
 &lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
 &lt;p&gt;Visit &lt;a href=&quot;https://mutable-instruments.net&quot;&gt;Mutable Instruments&lt;/a&gt; website, who makes the Shruthi-1 synthesizer.&lt;/p&gt;
 
-&lt;p&gt;Project page in &lt;a href=&quot;http://cycling74.com/toolbox/shruthi-1-editor&quot;&gt;Cycling 74 toolbox&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="software" /><category term="max" /><summary type="html"></summary></entry><entry><title type="html">Kipas</title><link href="https://elaoin.com/software/2014/03/18/kipas.html" rel="alternate" type="text/html" title="Kipas" /><published>2014-03-18T10:58:18+01:00</published><updated>2014-03-18T10:58:18+01:00</updated><id>https://elaoin.com/software/2014/03/18/kipas</id><content type="html" xml:base="https://elaoin.com/software/2014/03/18/kipas.html">&lt;p&gt;&lt;img src=&quot;/assets/kipas.png&quot; alt=&quot;Kipas&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Project page in &lt;a href=&quot;http://cycling74.com/toolbox/shruthi-1-editor&quot;&gt;Cycling 74 toolbox&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="software" /><category term="max" /><summary type="html"></summary></entry><entry><title type="html">OSCream discontinued</title><link href="https://elaoin.com/2014/04/20/oscream-discontinued.html" rel="alternate" type="text/html" title="OSCream discontinued" /><published>2014-04-20T16:43:18+02:00</published><updated>2014-04-20T16:43:18+02:00</updated><id>https://elaoin.com/2014/04/20/oscream-discontinued</id><content type="html" xml:base="https://elaoin.com/2014/04/20/oscream-discontinued.html">&lt;p&gt;BlackBerry recently announced that the Adobe AIR platform won’t be supported anymore on BB10 in the next update of the OS, BB10.3.&lt;/p&gt;
+
+&lt;p&gt;Therefore, it makes no sense for me to keep maintaining OSCream as it is now, maintaining an Adobe AIR app that could only run on Android, especially given the restrictions of the AIR platform (no support for UDP, that’s why OSCream server was required).&lt;/p&gt;
+
+&lt;p&gt;So OSCream is still available on the Android Play store, as long as Adobe AIR is available there. It will stay for a bit longer on the BlackBerry AppWorld, but it won’t be upgraded anymore, and obviously it won’t be running on the new BB10.3 OS update.&lt;/p&gt;</content><author><name></name></author><category term="blog" /><category term="oscream" /><summary type="html">BlackBerry recently announced that the Adobe AIR platform won’t be supported anymore on BB10 in the next update of the OS, BB10.3.</summary></entry><entry><title type="html">Kipas</title><link href="https://elaoin.com/software/2014/03/18/kipas.html" rel="alternate" type="text/html" title="Kipas" /><published>2014-03-18T10:58:18+01:00</published><updated>2014-03-18T10:58:18+01:00</updated><id>https://elaoin.com/software/2014/03/18/kipas</id><content type="html" xml:base="https://elaoin.com/software/2014/03/18/kipas.html">&lt;p&gt;&lt;img src=&quot;/assets/kipas.png&quot; alt=&quot;Kipas&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Kipas est un gestionnaire de mot de passe sécurisé qui permet de lire les bases de données Keepass sur les smartphones BlackBerry.&lt;/p&gt;
 
-&lt;h2 id=&quot;related-blog-articles&quot;&gt;Related blog articles&lt;/h2&gt;</content><author><name></name></author><category term="software" /><category term="mobile" /><summary type="html"></summary></entry><entry><title type="html">Monome Arc surfaces for OSCream</title><link href="https://elaoin.com/2011/04/12/monome-arc-surfaces-for-oscream.html" rel="alternate" type="text/html" title="Monome Arc surfaces for OSCream" /><published>2011-04-12T16:43:18+02:00</published><updated>2011-04-12T16:43:18+02:00</updated><id>https://elaoin.com/2011/04/12/monome-arc-surfaces-for-oscream</id><content type="html" xml:base="https://elaoin.com/2011/04/12/monome-arc-surfaces-for-oscream.html">&lt;p&gt;I have made good progress with the monome arc emulator for OSCream, actually I now have a working BETA.&lt;/p&gt;
-
-&lt;p&gt;Some small improvements still need to be made with the UI, also I’m not sure where and how to handle the encoder click (now I have simply put a separate button under the encoder), but the arc is already playable.&lt;/p&gt;
-
-&lt;p&gt;In fact it even seems to be working quite good as far as I can tell on the PlayBook Simulator, I have played it with Stretta’s Electric Dharma Wheels, as well as other Arc instrument patches, the screenshot below is running Plates for Arc4.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/OSCream03BETA.png&quot; alt=&quot;OSCream 0.3 BETA, Arc4 running Plates&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="blog" /><category term="oscream" /><summary type="html">I have made good progress with the monome arc emulator for OSCream, actually I now have a working BETA.</summary></entry></feed>
+&lt;h2 id=&quot;related-blog-articles&quot;&gt;Related blog articles&lt;/h2&gt;</content><author><name></name></author><category term="software" /><category term="mobile" /><summary type="html"></summary></entry></feed>

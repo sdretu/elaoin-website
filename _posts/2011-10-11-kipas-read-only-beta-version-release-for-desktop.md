@@ -1,5 +1,9 @@
-kiPas read-only Beta version release for desktop
-
+---
+layout: post
+title:  "kiPas read-only Beta version release for desktop"
+date:   2011-10-11 15:43:18 +0100
+tags: blog kipas
+---
 Here we go, progress on kiPas is now going slower because I started a new full time job, and while the final version is still not ready for a release on App World, I thought I’d give out a Beta version for users who are eager to test functionnality, and hopefully give a bit of feedback about what they’d expect to be fixed for the final release.
 
 As the release process on RIM’s AppWorld is a bit too complicated for a Beta, I decided to leverage Adobe AIR’s portability to give you a Beta release that’s basically exactly the same as what you would get on the PlayBook, except that this one will run on your desktop computer, Windows or Mac (not sure about linux, let me know).

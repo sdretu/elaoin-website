@@ -1,5 +1,9 @@
-kiPas for PlayBook available now!
-
+---
+layout: post
+title:  "kiPas for PlayBook available now!"
+date:   2011-12-07 15:43:18 +0100
+tags: blog kipas
+---
 kiPas is out on AppWorld! http://appworld.blackberry.com/webstore/content/67038?lang=en
 
 I changed the name at the last-minute because KIPASS was already used by Kawasaki :-)

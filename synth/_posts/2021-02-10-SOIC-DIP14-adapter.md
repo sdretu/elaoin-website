@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: page
 title:  "SOIC-DIP14 adapter"
 date:   2021-02-10 15:43:18 +0100
-tags: eurorack diy
+tags: diy tool
 ---
 ![A few adapters](/assets/SOIC-adapter.jpg)
 

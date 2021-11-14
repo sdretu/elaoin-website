@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Holilidays"
 date:   2016-03-18 10:58:18 +0100
 tags: website

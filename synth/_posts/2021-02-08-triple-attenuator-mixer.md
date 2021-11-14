@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Triple Attenuator Mixer"
 date:   2021-02-08 15:43:18 +0100
 tags: eurorack utility

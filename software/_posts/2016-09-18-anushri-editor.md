@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Anushri Editor"
 date:   2016-09-18 10:58:18 +0100
 tags: max

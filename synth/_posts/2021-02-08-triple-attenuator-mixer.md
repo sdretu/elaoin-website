@@ -41,4 +41,4 @@ See in download section to get the sources from GitHub
 
 Download the source from [Github](https://github.com/sdretu/Triple-Attenuator-Mixer)
 
-The module on [ModularGrid](http://www.modulargrid.net/e/other-unknown-triple-attenuateur-melangeur)
+The module on [ModularGrid](https://www.modulargrid.net/e/other-unknown-3-att-mix)

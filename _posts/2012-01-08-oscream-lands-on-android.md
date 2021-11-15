@@ -4,7 +4,7 @@ title:  "OSCream lands on Android"
 date:   2012-01-08 15:43:18 +0100
 tags: blog oscream
 ---
-![OSCream runnnig on Android Galaxy S2](/assets/oscream-on-android.jpg)
+![OSCream runnnig on Android Galaxy S2](/assets/blog/oscream-on-android.png)
 
 Rejoice, Android Monome fans!
 

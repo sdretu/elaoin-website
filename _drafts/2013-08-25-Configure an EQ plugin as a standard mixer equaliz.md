@@ -4,7 +4,7 @@ August 25th, 2013 § Leave a Comment
 
 I am following the Coursera class “Introduction to music production”. In this post, I’ll demonstrate the configuring of an EQ plugin to function like a large format mixing console EQ section, in my DAW, Ableton Live 9, as part of the fifth week assessment.
 
-![eq_action]()
+![eq_action](/assets/blog/live-eq_action.png)
 
 ## What is the mixer EQ section used for
 

@@ -4,7 +4,7 @@ title:  "Anushri Editor"
 date:   2016-09-18 10:58:18 +0100
 tags: max
 ---
-![Anushri Editor](/assets/anushri-editor.png)
+![Anushri Editor](/assets/software/anushri-editor.png)
 
 This is a software MIDI editor for [Mutable Instruments](https://mutable-instruments.net)'s awesome DIY synthesizer-beatbox, the Anushri.
 
@@ -21,7 +21,7 @@ Last but not least, the editor is open-source and the MAX project files can be d
 ## Downloads
 source on [Github](https://github.com/sdretu/Anushri-Editor)
 
-[App package for OSX](/assets/Anushri_Editor.app.zip), unzip and just drag and drop to your Applications folder.
+[App package for OSX](/assets/software/Anushri_Editor.app.zip), unzip and just drag and drop to your Applications folder.
 
 ## Links
 Visit [Mutable Instruments](https://mutable-instruments.net) website, who makes the Anushri synthesizer.

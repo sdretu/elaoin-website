@@ -6,7 +6,7 @@ tags: blog oscream
 ---
 OSCream Server is used to forward OSC Message between TCP protocol and UDP protocol.
 
-![OSCreamServer 1.0 on Windows 7](/assets/OSCreamServer.png)
+![OSCreamServer 1.0 on Windows 7](/assets/blog/oscreamserver.png)
 
 On the PlayBook, OSCream is developped in Adobe AIR environment, for security reasons UDP communication is disabled in AIR on mobile devices, so OSCream send its OSC Messages over TCP. But most monome applications are designed to exchange OSC messages over UDP, so a tool is needed to allow application to communicate with the PlayBook, OSCreamServer does just that.
 

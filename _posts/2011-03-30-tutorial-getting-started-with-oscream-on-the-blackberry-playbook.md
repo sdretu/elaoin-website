@@ -22,13 +22,13 @@ Download and install the Max5 runtime environment. We need it to run Press Cafe.
 
 Unzip Press cafe to the directory of your choice, run the application by launching the file _Press Cafe.maxpat_, this will launch Press Cafe inside the Max5 Runtime.
 
-![Press Cafe application running in Max5 Runtime. Note the prefix in the upper right hand corner.](/assets/Press_Cafe.png)
+![Press Cafe application running in Max5 Runtime. Note the prefix in the upper right hand corner.](/assets/blog/oscream-presscafe.png)
 
 ## Connect OSCreamServer
 1. Run OSCream Server on your computer, if your JAVA runtime environment is properly configured, just doubleclicking the OSCreamServer.jar file will launch the app, no need to install anything.
 2. You can leave all the default values, in the PlayBook TCP connection part, note the Port number. Click the Connect button.
 
-![OSCreamServer on Windows 7](/assets/OSCreamServer.png)
+![OSCreamServer on Windows 7](/assets/blog/oscreamserver.png)
 
 ## Connect the PlayBook
 1. Run OSCream on your PlayBook, Swipe-Down the configuration menu from the top of the screen.
@@ -38,7 +38,7 @@ Unzip Press cafe to the directory of your choice, run the application by launchi
 5. Switch the connection ON.
 6. Press any button on the PlayBook, hear the music played on your computer by Press Cafe :-)
 
-![Press Cafe being played on the blackBerry PlayBook](/assets/PlayBookPressCafe.png)
+![Press Cafe being played on the blackBerry PlayBook](/assets/blog/oscream-playbook-presscafe.png)
 
 ## Going further
 The <a title="monome.org" href="http://monome.org/">Monome</a> website is the best place to find lots of information about everything Monome. It has a special page referencing <a title="Monome Applications" href="http://docs.monome.org/doku.php?id=app#application_list">all monome applications</a>.

@@ -4,7 +4,7 @@ title:  "Monome Arc surfaces for OSCream"
 date:   2011-04-12 15:43:18 +0100
 tags: blog oscream
 ---
-![OSCream 0.3 BETA, Arc4 running Plates](/assets/OSCream03BETA.png)
+![OSCream 0.3 BETA, Arc4 running Plates](/assets/blog/oscream-0_3_BETA.png)
 
 I have made good progress with the monome arc emulator for OSCream, actually I now have a working BETA.
 

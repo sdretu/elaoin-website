@@ -4,7 +4,7 @@ title:  "Shruthi-1 Editor"
 date:   2014-06-18 10:58:18 +0100
 tags: max
 ---
-![Shruthi-1 Editor](/assets/shruthi-1-editor.png)
+![Shruthi-1 Editor](/assets/software/shruthi-1-editor.png)
 
 This is a software MIDI editor for [Mutable Instruments](https://mutable-instruments.net)'s awesome DIY synthesizer, the Shruthi-1.
 
@@ -19,7 +19,7 @@ Last but not least, the editor is open-source and the MAX project files can be d
 ## Downloads
 Download the source from [GitHub](https://github.com/sdretu/Shruthi-1-Editor)
 
-[Download the App package for OSX](/assets/Shruthi-1_Editor.app.zip), unzip and just drag and drop to your Applications folder.
+[Download the App package for OSX](/assets/software/Shruthi-1_Editor.app.zip), unzip and just drag and drop to your Applications folder.
 
 ## Links
 Visit [Mutable Instruments](https://mutable-instruments.net) website, who makes the Shruthi-1 synthesizer.

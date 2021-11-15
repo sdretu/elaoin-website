@@ -4,7 +4,7 @@ title:  "SOIC-DIP14 adapter"
 date:   2021-02-10 15:43:18 +0100
 tags: diy tool
 ---
-![A few adapters](/assets/SOIC-adapter.jpg)
+![A few adapters](/assets/synth/soic-dip14.png)
 
 SOICDIP14 adaptersI originally designed this small SOIC-DIP14 adapter to use LM3046 (available from mouser) as replacement for CA3046.
 

@@ -3,6 +3,7 @@ layout: page
 title:  "Triple Attenuator Mixer"
 date:   2021-02-08 15:43:18 +0100
 tags: eurorack utility
+bg: "/assets/synth/3attmix-assembled-pcbs-no-shadow.png"
 ---
 ![Triple Attenuator Mixer](/assets/synth/3attmix-assembled-pcbs.png)
 

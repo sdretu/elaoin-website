@@ -3,6 +3,7 @@ layout: page
 title:  "SOIC-DIP14 adapter"
 date:   2021-02-10 15:43:18 +0100
 tags: diy tool
+bg: "/assets/synth/soic-dip14-no-shadow.png"
 ---
 ![A few adapters](/assets/synth/soic-dip14.png)
 

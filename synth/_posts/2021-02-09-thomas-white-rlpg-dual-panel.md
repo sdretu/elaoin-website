@@ -3,6 +3,7 @@ layout: page
 title:  "Thomas White RLPG Dual Panel"
 date:   2021-02-09 15:43:18 +0100
 tags: eurorack panel
+bg: "/assets/synth/thomas_white_rlpg_dual_panel-no-shadow.png"
 ---
 ![Thomas White RLPG Dual Panel](/assets/synth/thomas_white_rlpg_dual_panel.png)
 

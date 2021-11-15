@@ -1,4 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="https://elaoin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://elaoin.com/" rel="alternate" type="text/html" /><updated>2021-11-14T22:43:25+01:00</updated><id>https://elaoin.com/feed.xml</id><title type="html">Elaoin</title><subtitle>Applis mobiles Android &amp; iOS,   Applications web Ruby on Rails</subtitle><entry><title type="html">SOIC-DIP14 adapter</title><link href="https://elaoin.com/synth/2021/02/10/SOIC-DIP14-adapter.html" rel="alternate" type="text/html" title="SOIC-DIP14 adapter" /><published>2021-02-10T15:43:18+01:00</published><updated>2021-02-10T15:43:18+01:00</updated><id>https://elaoin.com/synth/2021/02/10/SOIC-DIP14-adapter</id><content type="html" xml:base="https://elaoin.com/synth/2021/02/10/SOIC-DIP14-adapter.html">&lt;p&gt;&lt;img src=&quot;/assets/SOIC-adapter.jpg&quot; alt=&quot;A few adapters&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="https://elaoin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://elaoin.com/" rel="alternate" type="text/html" /><updated>2021-11-15T10:34:56+01:00</updated><id>https://elaoin.com/feed.xml</id><title type="html">Elaoin</title><subtitle>Applis mobiles Android &amp; iOS,   Applications web Ruby on Rails</subtitle><entry><title type="html">YuSynth Synthacon DIY</title><link href="https://elaoin.com/synth/2021/05/24/yusynth-synthacon-diy.html" rel="alternate" type="text/html" title="YuSynth Synthacon DIY" /><published>2021-05-24T16:43:18+02:00</published><updated>2021-05-24T16:43:18+02:00</updated><id>https://elaoin.com/synth/2021/05/24/yusynth-synthacon-diy</id><content type="html" xml:base="https://elaoin.com/synth/2021/05/24/yusynth-synthacon-diy.html">&lt;p&gt;&lt;img src=&quot;/assets/synth/synthacon-assembled.png&quot; alt=&quot;YuSytnh Synthacon panel&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;p&gt;The module on &lt;a href=&quot;https://www.modulargrid.net/e/other-unknown-synthacon-filter-yusynth&quot;&gt;ModularGrid&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="synth" /><category term="eurorack" /><category term="utility" /><summary type="html"></summary></entry><entry><title type="html">Buchla Roman F Timbre Dual Panel</title><link href="https://elaoin.com/synth/2021/04/09/buchla-dual-timbre-panel.html" rel="alternate" type="text/html" title="Buchla Roman F Timbre Dual Panel" /><published>2021-04-09T16:43:18+02:00</published><updated>2021-04-09T16:43:18+02:00</updated><id>https://elaoin.com/synth/2021/04/09/buchla-dual-timbre-panel</id><content type="html" xml:base="https://elaoin.com/synth/2021/04/09/buchla-dual-timbre-panel.html">&lt;p&gt;&lt;img src=&quot;/assets/synth/timbre-wavefolder-assembled.png&quot; alt=&quot;Buchla Roman F Dual Timbre Wavefolder&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;p&gt;The module on &lt;a href=&quot;https://www.modulargrid.net/e/other-unknown-timbre-wavefolder&quot;&gt;ModularGrid&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="synth" /><category term="eurorack" /><category term="panel" /><summary type="html"></summary></entry><entry><title type="html">SOIC-DIP14 adapter</title><link href="https://elaoin.com/synth/2021/02/10/SOIC-DIP14-adapter.html" rel="alternate" type="text/html" title="SOIC-DIP14 adapter" /><published>2021-02-10T15:43:18+01:00</published><updated>2021-02-10T15:43:18+01:00</updated><id>https://elaoin.com/synth/2021/02/10/SOIC-DIP14-adapter</id><content type="html" xml:base="https://elaoin.com/synth/2021/02/10/SOIC-DIP14-adapter.html">&lt;p&gt;&lt;img src=&quot;/assets/synth/soic-dip14.png&quot; alt=&quot;A few adapters&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;SOICDIP14 adaptersI originally designed this small SOIC-DIP14 adapter to use LM3046 (available from mouser) as replacement for CA3046.&lt;/p&gt;
 
@@ -17,11 +25,11 @@ Pins 1,2,6,7,8,9,13,14 go through both boards, pins 3,4,5,10,11,12 go only in th
 
 &lt;p&gt;&lt;a href=&quot;https://oshpark.com/projects/FCXaXJ2k&quot;&gt;Top board&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://oshpark.com/projects/wA9obdOT&quot;&gt;Bottom board&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="synth" /><category term="diy" /><category term="tool" /><summary type="html"></summary></entry><entry><title type="html">Thomas White RLPG Dual Panel</title><link href="https://elaoin.com/synth/2021/02/09/thomas-white-rlpg-dual-panel.html" rel="alternate" type="text/html" title="Thomas White RLPG Dual Panel" /><published>2021-02-09T15:43:18+01:00</published><updated>2021-02-09T15:43:18+01:00</updated><id>https://elaoin.com/synth/2021/02/09/thomas-white-rlpg-dual-panel</id><content type="html" xml:base="https://elaoin.com/synth/2021/02/09/thomas-white-rlpg-dual-panel.html">&lt;p&gt;&lt;img src=&quot;/assets/thomas_white_rlpg_dual_panel.jpg&quot; alt=&quot;Thomas White RLPG Dual Panel&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://oshpark.com/projects/wA9obdOT&quot;&gt;Bottom board&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="synth" /><category term="diy" /><category term="tool" /><summary type="html"></summary></entry><entry><title type="html">Thomas White RLPG Dual Panel</title><link href="https://elaoin.com/synth/2021/02/09/thomas-white-rlpg-dual-panel.html" rel="alternate" type="text/html" title="Thomas White RLPG Dual Panel" /><published>2021-02-09T15:43:18+01:00</published><updated>2021-02-09T15:43:18+01:00</updated><id>https://elaoin.com/synth/2021/02/09/thomas-white-rlpg-dual-panel</id><content type="html" xml:base="https://elaoin.com/synth/2021/02/09/thomas-white-rlpg-dual-panel.html">&lt;p&gt;&lt;img src=&quot;/assets/synth/thomas_white_rlpg_dual_panel.png&quot; alt=&quot;Thomas White RLPG Dual Panel&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
 
-&lt;p&gt;The module on &lt;a href=&quot;https://www.modulargrid.net/e/other-unknown-thomas-white-dual-resonant-lopass-gate--&quot;&gt;ModularGrid&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="synth" /><category term="eurorack" /><category term="panel" /><summary type="html"></summary></entry><entry><title type="html">Triple Attenuator Mixer</title><link href="https://elaoin.com/synth/2021/02/08/triple-attenuator-mixer.html" rel="alternate" type="text/html" title="Triple Attenuator Mixer" /><published>2021-02-08T15:43:18+01:00</published><updated>2021-02-08T15:43:18+01:00</updated><id>https://elaoin.com/synth/2021/02/08/triple-attenuator-mixer</id><content type="html" xml:base="https://elaoin.com/synth/2021/02/08/triple-attenuator-mixer.html">&lt;p&gt;&lt;img src=&quot;/assets/3attmix.png&quot; alt=&quot;Triple Attenuator Mixer&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;The module on &lt;a href=&quot;https://www.modulargrid.net/e/other-unknown-thomas-white-dual-resonant-lopass-gate--&quot;&gt;ModularGrid&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="synth" /><category term="eurorack" /><category term="panel" /><summary type="html"></summary></entry><entry><title type="html">Triple Attenuator Mixer</title><link href="https://elaoin.com/synth/2021/02/08/triple-attenuator-mixer.html" rel="alternate" type="text/html" title="Triple Attenuator Mixer" /><published>2021-02-08T15:43:18+01:00</published><updated>2021-02-08T15:43:18+01:00</updated><id>https://elaoin.com/synth/2021/02/08/triple-attenuator-mixer</id><content type="html" xml:base="https://elaoin.com/synth/2021/02/08/triple-attenuator-mixer.html">&lt;p&gt;&lt;img src=&quot;/assets/synth/3attmix-assembled-pcbs.png&quot; alt=&quot;Triple Attenuator Mixer&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;A simple utility module that can be used as a 3 way mixer, or 3 separate attenuator, or one attenuator and a 2 way mixer.
 Eurorack&lt;/p&gt;
@@ -62,14 +70,18 @@ Eurorack&lt;/p&gt;
 
 &lt;p&gt;Download the source from &lt;a href=&quot;https://github.com/sdretu/Triple-Attenuator-Mixer&quot;&gt;Github&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;The module on &lt;a href=&quot;https://www.modulargrid.net/e/other-unknown-3-att-mix&quot;&gt;ModularGrid&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="synth" /><category term="eurorack" /><category term="utility" /><summary type="html"></summary></entry><entry><title type="html">SomnoDiag</title><link href="https://elaoin.com/software/2018/03/18/somnodiag.html" rel="alternate" type="text/html" title="SomnoDiag" /><published>2018-03-18T10:58:18+01:00</published><updated>2018-03-18T10:58:18+01:00</updated><id>https://elaoin.com/software/2018/03/18/somnodiag</id><content type="html" xml:base="https://elaoin.com/software/2018/03/18/somnodiag.html">&lt;p&gt;&lt;img src=&quot;/assets/somnodiag.png&quot; alt=&quot;Somnodiag&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;The module on &lt;a href=&quot;https://www.modulargrid.net/e/other-unknown-3-att-mix&quot;&gt;ModularGrid&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="synth" /><category term="eurorack" /><category term="utility" /><summary type="html"></summary></entry><entry><title type="html">SomnoDiag</title><link href="https://elaoin.com/software/2018/03/18/somnodiag.html" rel="alternate" type="text/html" title="SomnoDiag" /><published>2018-03-18T10:58:18+01:00</published><updated>2018-03-18T10:58:18+01:00</updated><id>https://elaoin.com/software/2018/03/18/somnodiag</id><content type="html" xml:base="https://elaoin.com/software/2018/03/18/somnodiag.html">&lt;p&gt;&lt;img src=&quot;/assets/software/somnodiag-2.png&quot; alt=&quot;Somnodiag&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;SomnoDiag aide les médecins aux diagnostics des troubles du sommeils.&lt;/p&gt;</content><author><name></name></author><category term="software" /><category term="website" /><category term="ruby-on-rails" /><summary type="html"></summary></entry><entry><title type="html">OSCream</title><link href="https://elaoin.com/software/2017/06/18/oscream.html" rel="alternate" type="text/html" title="OSCream" /><published>2017-06-18T11:58:18+02:00</published><updated>2017-06-18T11:58:18+02:00</updated><id>https://elaoin.com/software/2017/06/18/oscream</id><content type="html" xml:base="https://elaoin.com/software/2017/06/18/oscream.html">&lt;p&gt;&lt;img src=&quot;/assets/oscream.png&quot; alt=&quot;OSCream&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;SomnoDiag aide les médecins aux diagnostics des troubles du sommeils.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/software/somnodiag-1.png&quot; alt=&quot;Somnodiag&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/software/somnodiag-3.png&quot; alt=&quot;Somnodiag&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="software" /><category term="website" /><category term="ruby-on-rails" /><summary type="html"></summary></entry><entry><title type="html">OSCream</title><link href="https://elaoin.com/software/2017/06/18/oscream.html" rel="alternate" type="text/html" title="OSCream" /><published>2017-06-18T11:58:18+02:00</published><updated>2017-06-18T11:58:18+02:00</updated><id>https://elaoin.com/software/2017/06/18/oscream</id><content type="html" xml:base="https://elaoin.com/software/2017/06/18/oscream.html">&lt;p&gt;&lt;img src=&quot;/assets/software/oscream.png&quot; alt=&quot;OSCream&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;OSCream est une application musicale reproduisant le fonctionnement des contrôleurs Monome Grid et Arc.&lt;/p&gt;
 
 &lt;video width=&quot;400&quot; controls=&quot;&quot; autoplay=&quot;&quot;&gt;
-    &lt;source src=&quot;/assets/oscream-edm.mov&quot; type=&quot;video/mp4&quot; /&gt;
+    &lt;source src=&quot;/assets/software/oscream-edm.mov&quot; type=&quot;video/mp4&quot; /&gt;
 &lt;/video&gt;
 
 &lt;h2 id=&quot;oscream-server&quot;&gt;OSCream Server&lt;/h2&gt;
@@ -108,7 +120,7 @@ version 1.0, download &lt;a title=&quot;OSCreamServer-1.0.jar&quot; href=&quot;h
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;/2011/03/24/oscream-published-on-blackberry-appworld.html&quot;&gt;OSCream published on BlackBerry AppWorld&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="software" /><category term="mobile" /><summary type="html"></summary></entry><entry><title type="html">Anushri Editor</title><link href="https://elaoin.com/software/2016/09/18/anushri-editor.html" rel="alternate" type="text/html" title="Anushri Editor" /><published>2016-09-18T11:58:18+02:00</published><updated>2016-09-18T11:58:18+02:00</updated><id>https://elaoin.com/software/2016/09/18/anushri-editor</id><content type="html" xml:base="https://elaoin.com/software/2016/09/18/anushri-editor.html">&lt;p&gt;&lt;img src=&quot;/assets/anushri-editor.png&quot; alt=&quot;Anushri Editor&quot; /&gt;&lt;/p&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="software" /><category term="mobile" /><summary type="html"></summary></entry><entry><title type="html">Anushri Editor</title><link href="https://elaoin.com/software/2016/09/18/anushri-editor.html" rel="alternate" type="text/html" title="Anushri Editor" /><published>2016-09-18T11:58:18+02:00</published><updated>2016-09-18T11:58:18+02:00</updated><id>https://elaoin.com/software/2016/09/18/anushri-editor</id><content type="html" xml:base="https://elaoin.com/software/2016/09/18/anushri-editor.html">&lt;p&gt;&lt;img src=&quot;/assets/software/anushri-editor.png&quot; alt=&quot;Anushri Editor&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;This is a software MIDI editor for &lt;a href=&quot;https://mutable-instruments.net&quot;&gt;Mutable Instruments&lt;/a&gt;’s awesome DIY synthesizer-beatbox, the Anushri.&lt;/p&gt;
 
@@ -125,10 +137,10 @@ version 1.0, download &lt;a title=&quot;OSCreamServer-1.0.jar&quot; href=&quot;h
 &lt;h2 id=&quot;downloads&quot;&gt;Downloads&lt;/h2&gt;
 &lt;p&gt;source on &lt;a href=&quot;https://github.com/sdretu/Anushri-Editor&quot;&gt;Github&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/assets/Anushri_Editor.app.zip&quot;&gt;App package for OSX&lt;/a&gt;, unzip and just drag and drop to your Applications folder.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/software/Anushri_Editor.app.zip&quot;&gt;App package for OSX&lt;/a&gt;, unzip and just drag and drop to your Applications folder.&lt;/p&gt;
 
 &lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
-&lt;p&gt;Visit &lt;a href=&quot;https://mutable-instruments.net&quot;&gt;Mutable Instruments&lt;/a&gt; website, who makes the Anushri synthesizer.&lt;/p&gt;</content><author><name></name></author><category term="software" /><category term="max" /><summary type="html"></summary></entry><entry><title type="html">Shruthi-1 Editor</title><link href="https://elaoin.com/software/2014/06/18/shruthi-1-editor.html" rel="alternate" type="text/html" title="Shruthi-1 Editor" /><published>2014-06-18T11:58:18+02:00</published><updated>2014-06-18T11:58:18+02:00</updated><id>https://elaoin.com/software/2014/06/18/shruthi-1-editor</id><content type="html" xml:base="https://elaoin.com/software/2014/06/18/shruthi-1-editor.html">&lt;p&gt;&lt;img src=&quot;/assets/shruthi-1-editor.png&quot; alt=&quot;Shruthi-1 Editor&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Visit &lt;a href=&quot;https://mutable-instruments.net&quot;&gt;Mutable Instruments&lt;/a&gt; website, who makes the Anushri synthesizer.&lt;/p&gt;</content><author><name></name></author><category term="software" /><category term="max" /><summary type="html"></summary></entry><entry><title type="html">Shruthi-1 Editor</title><link href="https://elaoin.com/software/2014/06/18/shruthi-1-editor.html" rel="alternate" type="text/html" title="Shruthi-1 Editor" /><published>2014-06-18T11:58:18+02:00</published><updated>2014-06-18T11:58:18+02:00</updated><id>https://elaoin.com/software/2014/06/18/shruthi-1-editor</id><content type="html" xml:base="https://elaoin.com/software/2014/06/18/shruthi-1-editor.html">&lt;p&gt;&lt;img src=&quot;/assets/software/shruthi-1-editor.png&quot; alt=&quot;Shruthi-1 Editor&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;This is a software MIDI editor for &lt;a href=&quot;https://mutable-instruments.net&quot;&gt;Mutable Instruments&lt;/a&gt;’s awesome DIY synthesizer, the Shruthi-1.&lt;/p&gt;
 
@@ -143,7 +155,7 @@ version 1.0, download &lt;a title=&quot;OSCreamServer-1.0.jar&quot; href=&quot;h
 &lt;h2 id=&quot;downloads&quot;&gt;Downloads&lt;/h2&gt;
 &lt;p&gt;Download the source from &lt;a href=&quot;https://github.com/sdretu/Shruthi-1-Editor&quot;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/assets/Shruthi-1_Editor.app.zip&quot;&gt;Download the App package for OSX&lt;/a&gt;, unzip and just drag and drop to your Applications folder.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/software/Shruthi-1_Editor.app.zip&quot;&gt;Download the App package for OSX&lt;/a&gt;, unzip and just drag and drop to your Applications folder.&lt;/p&gt;
 
 &lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
 &lt;p&gt;Visit &lt;a href=&quot;https://mutable-instruments.net&quot;&gt;Mutable Instruments&lt;/a&gt; website, who makes the Shruthi-1 synthesizer.&lt;/p&gt;
@@ -152,44 +164,4 @@ version 1.0, download &lt;a title=&quot;OSCreamServer-1.0.jar&quot; href=&quot;h
 
 &lt;p&gt;Therefore, it makes no sense for me to keep maintaining OSCream as it is now, maintaining an Adobe AIR app that could only run on Android, especially given the restrictions of the AIR platform (no support for UDP, that’s why OSCream server was required).&lt;/p&gt;
 
-&lt;p&gt;So OSCream is still available on the Android Play store, as long as Adobe AIR is available there. It will stay for a bit longer on the BlackBerry AppWorld, but it won’t be upgraded anymore, and obviously it won’t be running on the new BB10.3 OS update.&lt;/p&gt;</content><author><name></name></author><category term="blog" /><category term="oscream" /><summary type="html">BlackBerry recently announced that the Adobe AIR platform won’t be supported anymore on BB10 in the next update of the OS, BB10.3.</summary></entry><entry><title type="html">Kipas</title><link href="https://elaoin.com/software/2014/03/18/kipas.html" rel="alternate" type="text/html" title="Kipas" /><published>2014-03-18T10:58:18+01:00</published><updated>2014-03-18T10:58:18+01:00</updated><id>https://elaoin.com/software/2014/03/18/kipas</id><content type="html" xml:base="https://elaoin.com/software/2014/03/18/kipas.html">&lt;p&gt;&lt;img src=&quot;/assets/kipas.png&quot; alt=&quot;Kipas&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Kipas est un gestionnaire de mot de passe sécurisé qui permet de lire les bases de données Keepass sur les smartphones BlackBerry.&lt;/p&gt;
-
-&lt;h2 id=&quot;related-blog-articles&quot;&gt;Related blog articles&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;/2012/02/12/kipas-1-1-0.html&quot;&gt;kiPas 1.1.0&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;/2011/12/07/kipas-for-playbook-available-now.html&quot;&gt;kiPas for PlayBook available now!&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;/2011/12/01/kipas-1-0-for-playbook.html&quot;&gt;kiPas 1.0 for PlayBook&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;/2011/10/22/kipass-beta-updated.html&quot;&gt;kiPass Beta updated&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;/2011/10/11/kipas-read-only-beta-version-release-for-desktop.html&quot;&gt;kiPas read-only Beta version release for desktop&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;/2011/09/26/progress-on-kipas.html&quot;&gt;Progress on KiPas&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;/2011/09/14/introducing-kipas-a-keepass-client-for-the-playbook.html&quot;&gt;Introducing kiPas: a KeePass client for the Playbook&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="software" /><category term="mobile" /><summary type="html"></summary></entry><entry><title type="html">kiPas 1.1.0</title><link href="https://elaoin.com/2012/02/12/kipas-1-1-0.html" rel="alternate" type="text/html" title="kiPas 1.1.0" /><published>2012-02-12T15:43:18+01:00</published><updated>2012-02-12T15:43:18+01:00</updated><id>https://elaoin.com/2012/02/12/kipas-1-1-0</id><content type="html" xml:base="https://elaoin.com/2012/02/12/kipas-1-1-0.html">&lt;p&gt;Finally submitted kiPas 1.1.0 to AppWorld!
-While this release won’t bring too many new features to the end user, it is a significant release for several reasons:&lt;/p&gt;
-
-&lt;p&gt;First of all, the cryptographic functions have been entirely recoded, all of the hashing and decryption is now made in native code, this was the big change I wanted to complete before adding any new features. What does it bring? far better performances, specially when it comes to handling huge databases or big numbers for Key Encoding Rounds. With the previous pure AS3 implementation, a DB over 3MB with Key Encoding Rounds above 50000 could easily take a few minutes to decrypt and open, now with the Native implementation, this takes just a second, which feels a lot better, right? Performance was a major issue to me, and I encountered several difficulties while trying to solve this, after a visit at BBDevCon Europe last week, I finally got the answers I missed to finish this, and I can now go back to improving kiPas.&lt;/p&gt;
-
-&lt;p&gt;This release will also be the last one to support PlayBook OS1, with the imminent release of PlayBook OS2, I will now be focusing on redesigning the UI for a better look and feel, and added functionality (hint: search is next on the list), what I have seen of the new upcoming messaging app UI at BBDevCon convinced me it could be way better, and I plan to do it with BB10 phones forward compatibility in mind.&lt;/p&gt;
-
-&lt;p&gt;Finally, it brings in a few fixes and improvements:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;It is now possible to open the DataBase directly by pressing the keyboard Return key after filling the password.&lt;/li&gt;
-  &lt;li&gt;The Notes field was displaying extra line breaks, this has been fixed.&lt;/li&gt;
-  &lt;li&gt;The bug where two entries would display instead of just one when switching between apps has been fixed.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="blog" /><category term="kipas" /><summary type="html">Finally submitted kiPas 1.1.0 to AppWorld! While this release won’t bring too many new features to the end user, it is a significant release for several reasons:</summary></entry></feed>
+&lt;p&gt;So OSCream is still available on the Android Play store, as long as Adobe AIR is available there. It will stay for a bit longer on the BlackBerry AppWorld, but it won’t be upgraded anymore, and obviously it won’t be running on the new BB10.3 OS update.&lt;/p&gt;</content><author><name></name></author><category term="blog" /><category term="oscream" /><summary type="html">BlackBerry recently announced that the Adobe AIR platform won’t be supported anymore on BB10 in the next update of the OS, BB10.3.</summary></entry></feed>

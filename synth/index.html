@@ -33,42 +33,181 @@
         <div class="trigger"><a class="page-link" href="/about/">About</a><a class="page-link" href="/blog/">Blog</a></div>
       </nav></div>
 </header>
-<main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        <div class="home">
 
 
-  <ul class="post-list"><li><h3>
-          <a class="post-link" href="/synth/2021/05/24/yusynth-synthacon-diy.html">
-            YuSynth Synthacon DIY
-          </a>
-        </h3><p><img src="/assets/synth/synthacon-assembled.png" alt="YuSytnh Synthacon panel" /></p>
-</li><li><h3>
-          <a class="post-link" href="/synth/2021/04/09/buchla-dual-timbre-panel.html">
-            Buchla Roman F Timbre Dual Panel
-          </a>
-        </h3><p><img src="/assets/synth/timbre-wavefolder-assembled.png" alt="Buchla Roman F Dual Timbre Wavefolder" /></p>
-</li><li><h3>
-          <a class="post-link" href="/synth/2021/02/10/SOIC-DIP14-adapter.html">
-            SOIC-DIP14 adapter
-          </a>
-        </h3><p><img src="/assets/synth/soic-dip14.png" alt="A few adapters" /></p>
-</li><li><h3>
-          <a class="post-link" href="/synth/2021/02/09/thomas-white-rlpg-dual-panel.html">
-            Thomas White RLPG Dual Panel
-          </a>
-        </h3><p><img src="/assets/synth/thomas_white_rlpg_dual_panel.png" alt="Thomas White RLPG Dual Panel" /></p>
-</li><li><h3>
-          <a class="post-link" href="/synth/2021/02/08/triple-attenuator-mixer.html">
-            Triple Attenuator Mixer
-          </a>
-        </h3><p><img src="/assets/synth/3attmix-assembled-pcbs.png" alt="Triple Attenuator Mixer" /></p>
-</li></ul>
+
+
+
+  <style type="text/css" media="screen">
+    .site-nav {
+      z-index: 3;
+    }
+    .start-page .switch {
+      width: 100%;
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      font-size: 16;
+      -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+    }
+    .start-page .switch .switch-link .bg:hover {
+      -webkit-filter: grayscale(0%) brightness(1100%) contrast(120%);
+      filter: grayscale(0%) brightness(110%) contrast(120%);
+      -webkit-transition: -webkit-filter .25s ease-in-out;
+      transition: -webkit-filter .25s ease-in-out;
+      -o-transition: filter .25s ease-in-out;
+      transition: filter .25s ease-in-out;
+      transition: filter .25s ease-in-out,-webkit-filter .25s ease-in-out;
+    }
+    .start-page .switch .switch-link .bg {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      left: 0;
+      top: 0;
+      -webkit-filter: grayscale(0%) brightness(100%) contrast(100%);
+      filter: grayscale(0%) brightness(100%) contrast(100%);
+      -webkit-transition: -webkit-filter .25s ease-in-out;
+      transition: -webkit-filter .25s ease-in-out;
+      -o-transition: filter .25s ease-in-out;
+      transition: filter .25s ease-in-out;
+      transition: filter .25s ease-in-out,-webkit-filter .25s ease-in-out;
+    }
+    .start-page .switch .switch-link {
+      display: inline-block;
+      position: relative;
+      overflow: hidden;
+      height: calc(100vh - 80px - 106px);
+      min-height: 520px;
+    }
+    .start-page .switch .switch-link .title {
+      color: #fff;
+      position: absolute;
+      top: 80%;
+      display: block;
+      font-family: Arial-Black,Arial,sans-serif;
+      font-size: 34px;
+      line-height: 1em;
+      letter-spacing: normal;
+      text-align: center;
+      text-transform: uppercase;
+      pointer-events: none;
+      z-index: 3;
+      width: 100%;
+      -webkit-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+      transform: translateY(-50%);
+    }
+  </style>
+  
+<section class="start-page">
+    <div class="switch links">
+
+    
+
+    <style type="text/css" media="screen">
+    .start-page .switch .switch-link.yusynth-synthacon-diy .bg {
+      background: url(../assets/synth/synthacon-assembled-no-shadow.png) 50% 50% no-repeat;
+      -webkit-background-size: cover;
+      background-size: cover;
+    }
+    .start-page .switch .switch-link.yusynth-synthacon-diy {
+      width: 33.333333333333336%;
+    }
+    </style>
+
+    <a class="switch-link yusynth-synthacon-diy" href="/synth/2021/05/24/yusynth-synthacon-diy.html">
+      <div class="bg"></div>
+      <span class="title">
+        YuSynth Synthacon DIY
+      </span>
+    </a>
+
+    
+
+    <style type="text/css" media="screen">
+    .start-page .switch .switch-link.buchla-dual-timbre-panel .bg {
+      background: url(../assets/synth/timbre-wavefolder-assembled-no-shadow.png) 50% 50% no-repeat;
+      -webkit-background-size: cover;
+      background-size: cover;
+    }
+    .start-page .switch .switch-link.buchla-dual-timbre-panel {
+      width: 33.333333333333336%;
+    }
+    </style>
+
+    <a class="switch-link buchla-dual-timbre-panel" href="/synth/2021/04/09/buchla-dual-timbre-panel.html">
+      <div class="bg"></div>
+      <span class="title">
+        Buchla Roman F Timbre Dual Panel
+      </span>
+    </a>
+
+    
+
+    <style type="text/css" media="screen">
+    .start-page .switch .switch-link.SOIC-DIP14-adapter .bg {
+      background: url(../assets/synth/soic-dip14-no-shadow.png) 50% 50% no-repeat;
+      -webkit-background-size: cover;
+      background-size: cover;
+    }
+    .start-page .switch .switch-link.SOIC-DIP14-adapter {
+      width: 33.333333333333336%;
+    }
+    </style>
+
+    <a class="switch-link SOIC-DIP14-adapter" href="/synth/2021/02/10/SOIC-DIP14-adapter.html">
+      <div class="bg"></div>
+      <span class="title">
+        SOIC-DIP14 adapter
+      </span>
+    </a>
+
+    
+
+    <style type="text/css" media="screen">
+    .start-page .switch .switch-link.thomas-white-rlpg-dual-panel .bg {
+      background: url(../assets/synth/thomas_white_rlpg_dual_panel-no-shadow.png) 50% 50% no-repeat;
+      -webkit-background-size: cover;
+      background-size: cover;
+    }
+    .start-page .switch .switch-link.thomas-white-rlpg-dual-panel {
+      width: 33.333333333333336%;
+    }
+    </style>
+
+    <a class="switch-link thomas-white-rlpg-dual-panel" href="/synth/2021/02/09/thomas-white-rlpg-dual-panel.html">
+      <div class="bg"></div>
+      <span class="title">
+        Thomas White RLPG Dual Panel
+      </span>
+    </a>
+
+    
+
+    <style type="text/css" media="screen">
+    .start-page .switch .switch-link.triple-attenuator-mixer .bg {
+      background: url(../assets/synth/3attmix-assembled-pcbs-no-shadow.png) 50% 50% no-repeat;
+      -webkit-background-size: cover;
+      background-size: cover;
+    }
+    .start-page .switch .switch-link.triple-attenuator-mixer {
+      width: 33.333333333333336%;
+    }
+    </style>
+
+    <a class="switch-link triple-attenuator-mixer" href="/synth/2021/02/08/triple-attenuator-mixer.html">
+      <div class="bg"></div>
+      <span class="title">
+        Triple Attenuator Mixer
+      </span>
+    </a>
+
+    
 
     </div>
-
-      </div>
-    </main><footer class="site-footer h-card">
+  </section><footer class="site-footer h-card">
   <data class="u-url" href="/"></data>
 
   <div class="wrapper">

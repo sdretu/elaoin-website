@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="https://elaoin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://elaoin.com/" rel="alternate" type="text/html" /><updated>2021-11-15T14:11:26+01:00</updated><id>https://elaoin.com/feed.xml</id><title type="html">Elaoin</title><subtitle>Applis mobiles Android &amp; iOS,   Applications web Ruby on Rails</subtitle><entry><title type="html">YuSynth Synthacon DIY</title><link href="https://elaoin.com/synth/2021/05/24/yusynth-synthacon-diy.html" rel="alternate" type="text/html" title="YuSynth Synthacon DIY" /><published>2021-05-24T16:43:18+02:00</published><updated>2021-05-24T16:43:18+02:00</updated><id>https://elaoin.com/synth/2021/05/24/yusynth-synthacon-diy</id><content type="html" xml:base="https://elaoin.com/synth/2021/05/24/yusynth-synthacon-diy.html">&lt;p&gt;&lt;img src=&quot;/assets/synth/synthacon-assembled.png&quot; alt=&quot;YuSytnh Synthacon panel&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="https://elaoin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://elaoin.com/" rel="alternate" type="text/html" /><updated>2022-02-17T21:07:30+01:00</updated><id>https://elaoin.com/feed.xml</id><title type="html">Elaoin</title><subtitle>Applis mobiles Android &amp; iOS,   Applications web Ruby on Rails</subtitle><entry><title type="html">YuSynth Synthacon DIY</title><link href="https://elaoin.com/synth/2021/05/24/yusynth-synthacon-diy.html" rel="alternate" type="text/html" title="YuSynth Synthacon DIY" /><published>2021-05-24T16:43:18+02:00</published><updated>2021-05-24T16:43:18+02:00</updated><id>https://elaoin.com/synth/2021/05/24/yusynth-synthacon-diy</id><content type="html" xml:base="https://elaoin.com/synth/2021/05/24/yusynth-synthacon-diy.html">&lt;p&gt;&lt;img src=&quot;/assets/synth/synthacon-assembled.png&quot; alt=&quot;YuSytnh Synthacon panel&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
 
@@ -70,13 +70,7 @@ Eurorack&lt;/p&gt;
 
 &lt;p&gt;Download the source from &lt;a href=&quot;https://github.com/sdretu/Triple-Attenuator-Mixer&quot;&gt;Github&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;The module on &lt;a href=&quot;https://www.modulargrid.net/e/other-unknown-3-att-mix&quot;&gt;ModularGrid&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="synth" /><category term="eurorack" /><category term="utility" /><summary type="html"></summary></entry><entry><title type="html">SomnoDiag</title><link href="https://elaoin.com/software/2018/03/18/somnodiag.html" rel="alternate" type="text/html" title="SomnoDiag" /><published>2018-03-18T10:58:18+01:00</published><updated>2018-03-18T10:58:18+01:00</updated><id>https://elaoin.com/software/2018/03/18/somnodiag</id><content type="html" xml:base="https://elaoin.com/software/2018/03/18/somnodiag.html">&lt;p&gt;&lt;img src=&quot;/assets/software/somnodiag-2.png&quot; alt=&quot;Somnodiag&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;SomnoDiag aide les médecins aux diagnostics des troubles du sommeils.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/software/somnodiag-1.png&quot; alt=&quot;Somnodiag&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/software/somnodiag-3.png&quot; alt=&quot;Somnodiag&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="software" /><category term="website" /><category term="ruby-on-rails" /><summary type="html"></summary></entry><entry><title type="html">OSCream</title><link href="https://elaoin.com/software/2017/06/18/oscream.html" rel="alternate" type="text/html" title="OSCream" /><published>2017-06-18T11:58:18+02:00</published><updated>2017-06-18T11:58:18+02:00</updated><id>https://elaoin.com/software/2017/06/18/oscream</id><content type="html" xml:base="https://elaoin.com/software/2017/06/18/oscream.html">&lt;p&gt;&lt;img src=&quot;/assets/software/oscream.png&quot; alt=&quot;OSCream&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;The module on &lt;a href=&quot;https://www.modulargrid.net/e/other-unknown-3-att-mix&quot;&gt;ModularGrid&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="synth" /><category term="eurorack" /><category term="utility" /><summary type="html"></summary></entry><entry><title type="html">OSCream</title><link href="https://elaoin.com/software/2017/06/18/oscream.html" rel="alternate" type="text/html" title="OSCream" /><published>2017-06-18T11:58:18+02:00</published><updated>2017-06-18T11:58:18+02:00</updated><id>https://elaoin.com/software/2017/06/18/oscream</id><content type="html" xml:base="https://elaoin.com/software/2017/06/18/oscream.html">&lt;p&gt;&lt;img src=&quot;/assets/software/oscream.png&quot; alt=&quot;OSCream&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;OSCream est une application musicale reproduisant le fonctionnement des contrôleurs Monome Grid et Arc.&lt;/p&gt;
 
@@ -164,4 +158,32 @@ version 1.0, download &lt;a title=&quot;OSCreamServer-1.0.jar&quot; href=&quot;h
 
 &lt;p&gt;Therefore, it makes no sense for me to keep maintaining OSCream as it is now, maintaining an Adobe AIR app that could only run on Android, especially given the restrictions of the AIR platform (no support for UDP, that’s why OSCream server was required).&lt;/p&gt;
 
-&lt;p&gt;So OSCream is still available on the Android Play store, as long as Adobe AIR is available there. It will stay for a bit longer on the BlackBerry AppWorld, but it won’t be upgraded anymore, and obviously it won’t be running on the new BB10.3 OS update.&lt;/p&gt;</content><author><name></name></author><category term="blog" /><category term="oscream" /><summary type="html">BlackBerry recently announced that the Adobe AIR platform won’t be supported anymore on BB10 in the next update of the OS, BB10.3.</summary></entry></feed>
+&lt;p&gt;So OSCream is still available on the Android Play store, as long as Adobe AIR is available there. It will stay for a bit longer on the BlackBerry AppWorld, but it won’t be upgraded anymore, and obviously it won’t be running on the new BB10.3 OS update.&lt;/p&gt;</content><author><name></name></author><category term="blog" /><category term="oscream" /><summary type="html">BlackBerry recently announced that the Adobe AIR platform won’t be supported anymore on BB10 in the next update of the OS, BB10.3.</summary></entry><entry><title type="html">Kipas</title><link href="https://elaoin.com/software/2014/03/18/kipas.html" rel="alternate" type="text/html" title="Kipas" /><published>2014-03-18T10:58:18+01:00</published><updated>2014-03-18T10:58:18+01:00</updated><id>https://elaoin.com/software/2014/03/18/kipas</id><content type="html" xml:base="https://elaoin.com/software/2014/03/18/kipas.html">&lt;p&gt;&lt;img src=&quot;/assets/software/kipas.png&quot; alt=&quot;Kipas&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Kipas est un gestionnaire de mot de passe sécurisé qui permet de lire les bases de données Keepass sur les smartphones BlackBerry.&lt;/p&gt;
+
+&lt;h2 id=&quot;related-blog-articles&quot;&gt;Related blog articles&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;/2012/02/12/kipas-1-1-0.html&quot;&gt;kiPas 1.1.0&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;/2011/12/07/kipas-for-playbook-available-now.html&quot;&gt;kiPas for PlayBook available now!&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;/2011/12/01/kipas-1-0-for-playbook.html&quot;&gt;kiPas 1.0 for PlayBook&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;/2011/10/22/kipass-beta-updated.html&quot;&gt;kiPass Beta updated&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;/2011/10/11/kipas-read-only-beta-version-release-for-desktop.html&quot;&gt;kiPas read-only Beta version release for desktop&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;/2011/09/26/progress-on-kipas.html&quot;&gt;Progress on KiPas&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;/2011/09/14/introducing-kipas-a-keepass-client-for-the-playbook.html&quot;&gt;Introducing kiPas: a KeePass client for the Playbook&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="software" /><category term="mobile" /><summary type="html"></summary></entry></feed>

@@ -1,6 +1,9 @@
-How to create a submix track in Ableton Live
-
-August 12th, 2013 § Leave a Comment
+---
+layout: post
+title:  "How to create a submix track in Ableton Live"
+date:   2013-08-12 16:43:18 +0100
+tags: blog ableton coursera
+---
 
 I am following the Coursera class “Introduction to music production”. In this post, I’ll teach how to create a submix track in my DAW, Ableton Live 9, as part of the third week assessment.
 

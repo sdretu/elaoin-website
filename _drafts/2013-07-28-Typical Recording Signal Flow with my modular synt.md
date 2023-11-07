@@ -1,8 +1,11 @@
-Typical Recording Signal Flow with my modular synth
+---
+layout: post
+title:  "Typical Recording Signal Flow with my modular synth"
+date:   2013-07-28 16:43:18 +0100
+tags: blog ableton coursera
+---
 
-July 28th, 2013 § Leave a Comment
-
-I am following the Coursera class “Introduction to music production”. In this post, I’ll teach what is the typical signal flow when recording my modular synth with my own gear in my little home studio, as part of the first week assessment.
+I am following the Coursera class [Introduction to music production](https://www.coursera.org/learn/produccion-musical). In this post, I’ll teach what is the typical signal flow when recording my modular synth with my own gear in my little home studio, as part of the first week assessment.
 
 The gear I’m using here is described below:
 

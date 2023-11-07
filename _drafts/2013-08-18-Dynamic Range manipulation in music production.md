@@ -1,6 +1,9 @@
-Dynamic Range manipulation in music production
-
-August 18th, 2013 § Leave a Comment
+---
+layout: post
+title:  "Dynamic Range manipulation in music production"
+date:   2013-08-18 16:43:18 +0100
+tags: blog ableton coursera
+---
 
 I am following the Coursera class “Introduction to music production”. In this post, I’ll try to explain the concepts behind dynamic range manipulations in a musical post-production context, as part of the fourth week assessment.
 

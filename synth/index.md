@@ -1,4 +1,4 @@
 ---
-layout: synth
+layout: tiles
 category: synth
 ---

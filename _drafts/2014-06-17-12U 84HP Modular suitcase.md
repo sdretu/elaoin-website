@@ -1,6 +1,9 @@
-12U 84HP Modular suitcase
-
-June 17th, 2014 § Leave a Comment
+---
+layout: post
+title:  "12U 84HP Modular suitcase"
+date:   2014-06-17 16:43:18 +0100
+tags: blog case eurorack
+---
 
 I finally found the time to complete my 12U 84HP eurorack modular case.
 

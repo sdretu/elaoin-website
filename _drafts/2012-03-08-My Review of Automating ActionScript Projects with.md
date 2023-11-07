@@ -1,4 +1,9 @@
-My Review of Automating ActionScript Projects with Eclipse and Ant
+---
+layout: post
+title:  "My Review of Automating ActionScript Projects with Eclipse and Ant"
+date:   2012-03-08 16:43:18 +0100
+tags: blog
+---
 
 Originally submitted at O’Reilly
 

@@ -1,4 +1,9 @@
-FDT5 project template for PlayBook
+---
+layout: post
+title:  "FDT5 project template for PlayBook"
+date:   2012-03-08 15:43:18 +0100
+tags: blog
+---
 
 It’s at BBDevCon that I first heard of FDT, I immediately downloaded it when I came back, and I’m now using it as my main IDE for AS3 development. While FDT5 is a great tool, it lacked default project wizards for the BlackBerry PlayBook, fortunately, this can be easily fixed thanks to FDT’s Project Templates.
 

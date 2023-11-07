@@ -1,6 +1,9 @@
-Configure an EQ plugin as a standard mixer equalizer section in Ableton Live 9
-
-August 25th, 2013 § Leave a Comment
+---
+layout: post
+title:  "Configure an EQ plugin as a standard mixer equalizer section in Ableton Live 9"
+date:   2013-08-25 16:43:18 +0100
+tags: blog ableton coursera
+---
 
 I am following the Coursera class “Introduction to music production”. In this post, I’ll demonstrate the configuring of an EQ plugin to function like a large format mixing console EQ section, in my DAW, Ableton Live 9, as part of the fifth week assessment.
 

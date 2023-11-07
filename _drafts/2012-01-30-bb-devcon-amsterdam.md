@@ -1,4 +1,9 @@
-BB DevCon Amsterdam
+---
+layout: post
+title:  "BB DevCon Amsterdam"
+date:   2012-01-30 15:43:18 +0100
+tags: blog
+---
 
 I will be at the BlackBerry DevCon in Amsterdam next week!!
 

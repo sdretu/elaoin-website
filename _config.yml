@@ -16,11 +16,11 @@
 title: Elaoin
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Applis mobiles Android & iOS,  
-  Applications web Ruby on Rails
+  Android & iOS mobile apps,  
+  Ruby on Rails web apps
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://elaoin.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: _elaoin
+mastodon_username: @elaoin@mastodon.social
 github_username:  Elaoin
 show_excerpts: true
 formspree_id: mlelknzd

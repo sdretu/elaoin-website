@@ -1,22 +1,18 @@
 ---
 layout: post
-title:  "Titic Metronome Privacy Policy"
+title:  "Tictic Metronome - Privacy Policy"
 date:   2026-09-05 22:25:18 +0100
 tags: blog tictic
 ---
-Privacy Policy — Tictic Metronome
-
 Last updated: September 5, 2026
 
-Overview
-
-Metronome is a simple, standalone utility app. It does not collect, transmit, store, or share any personal data. This policy explains what the app does and does not do with respect to your privacy.
+Tictic Metronome is a simple, standalone utility app. It does not collect, transmit, store, or share any personal data. This policy explains what the app does and does not do with respect to your privacy.
 
 <!--more-->
 
 ## Data Collection
 
-Metronome collects no data of any kind.
+Tictic Metronome collects no data of any kind.
 
 Specifically, the app does not:
 
@@ -39,7 +35,7 @@ The app uses the following Apple platform features, all processed entirely on yo
 
 ## Third-Party Services
 
-Metronome uses no third-party SDKs, analytics tools, or services. There are no in-app purchases, subscriptions, or advertisements.
+Tictic Metronome uses no third-party SDKs, analytics tools, or services. There are no in-app purchases, subscriptions, or advertisements.
 
 ## Children's Privacy
 
@@ -52,4 +48,4 @@ If the app ever introduces features that involve data, this policy will be updat
 ## Contact
 
 Questions about this policy:
-![Contact us via our contact form](/about)
+[Contact us via our contact form](/about)

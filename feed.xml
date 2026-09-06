@@ -1,4 +1,52 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="https://elaoin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://elaoin.com/" rel="alternate" type="text/html" /><updated>2026-09-06T22:34:08+02:00</updated><id>https://elaoin.com/feed.xml</id><title type="html">Elaoin</title><subtitle>Applis mobiles Android &amp; iOS,   Applications web Ruby on Rails</subtitle><entry><title type="html">YuSynth Synthacon DIY</title><link href="https://elaoin.com/synth/2021/05/24/yusynth-synthacon-diy.html" rel="alternate" type="text/html" title="YuSynth Synthacon DIY" /><published>2021-05-24T16:43:18+02:00</published><updated>2021-05-24T16:43:18+02:00</updated><id>https://elaoin.com/synth/2021/05/24/yusynth-synthacon-diy</id><content type="html" xml:base="https://elaoin.com/synth/2021/05/24/yusynth-synthacon-diy.html">&lt;p&gt;&lt;img src=&quot;/assets/synth/synthacon-assembled.png&quot; alt=&quot;YuSytnh Synthacon panel&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="https://elaoin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://elaoin.com/" rel="alternate" type="text/html" /><updated>2026-09-06T22:35:59+02:00</updated><id>https://elaoin.com/feed.xml</id><title type="html">Elaoin</title><subtitle>Applis mobiles Android &amp; iOS,   Applications web Ruby on Rails</subtitle><entry><title type="html">Titic Metronome Privacy Policy</title><link href="https://elaoin.com/2026/09/05/tictic-metronome-privacy-policy.html" rel="alternate" type="text/html" title="Titic Metronome Privacy Policy" /><published>2026-09-05T23:25:18+02:00</published><updated>2026-09-05T23:25:18+02:00</updated><id>https://elaoin.com/2026/09/05/tictic-metronome-privacy-policy</id><content type="html" xml:base="https://elaoin.com/2026/09/05/tictic-metronome-privacy-policy.html">&lt;p&gt;Privacy Policy — Tictic Metronome&lt;/p&gt;
+
+&lt;p&gt;Last updated: September 5, 2026&lt;/p&gt;
+
+&lt;p&gt;Overview&lt;/p&gt;
+
+&lt;p&gt;Metronome is a simple, standalone utility app. It does not collect, transmit, store, or share any personal data. This policy explains what the app does and does not do with respect to your privacy.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;data-collection&quot;&gt;Data Collection&lt;/h2&gt;
+
+&lt;p&gt;Metronome collects no data of any kind.&lt;/p&gt;
+
+&lt;p&gt;Specifically, the app does not:&lt;/p&gt;
+
+&lt;p&gt;• Collect personal information (name, email, location, etc.)
+• Use analytics SDKs or crash-reporting services
+• Transmit any data to external servers
+• Use advertising networks or tracking identifiers
+• Access your microphone, camera, contacts, or any other sensitive capability
+• Create user accounts or require sign-in&lt;/p&gt;
+
+&lt;p&gt;All state (BPM, tempo settings) is kept locally on your device and is never transmitted anywhere.&lt;/p&gt;
+
+&lt;h2 id=&quot;apple-platform-features&quot;&gt;Apple Platform Features&lt;/h2&gt;
+
+&lt;p&gt;The app uses the following Apple platform features, all processed entirely on your device:&lt;/p&gt;
+
+&lt;p&gt;• Live Activity / Dynamic Island (iOS) — displays BPM on the Lock Screen; no data leaves the device
+• Haptic feedback (Apple Watch) — generates wrist vibrations locally; no data is involved
+• Control Center widget — provides quick access; no data is collected&lt;/p&gt;
+
+&lt;h2 id=&quot;third-party-services&quot;&gt;Third-Party Services&lt;/h2&gt;
+
+&lt;p&gt;Metronome uses no third-party SDKs, analytics tools, or services. There are no in-app purchases, subscriptions, or advertisements.&lt;/p&gt;
+
+&lt;h2 id=&quot;childrens-privacy&quot;&gt;Children’s Privacy&lt;/h2&gt;
+
+&lt;p&gt;Because the app collects no data whatsoever, it is safe for users of all ages, including children under 13.&lt;/p&gt;
+
+&lt;h2 id=&quot;changes-to-this-policy&quot;&gt;Changes to This Policy&lt;/h2&gt;
+
+&lt;p&gt;If the app ever introduces features that involve data, this policy will be updated before those features ship, and users will be notified via an App Store update.&lt;/p&gt;
+
+&lt;h2 id=&quot;contact&quot;&gt;Contact&lt;/h2&gt;
+
+&lt;p&gt;Questions about this policy:
+&lt;img src=&quot;/about&quot; alt=&quot;Contact us via our contact form&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="blog" /><category term="tictic" /><summary type="html">Privacy Policy — Tictic Metronome</summary></entry><entry><title type="html">YuSynth Synthacon DIY</title><link href="https://elaoin.com/synth/2021/05/24/yusynth-synthacon-diy.html" rel="alternate" type="text/html" title="YuSynth Synthacon DIY" /><published>2021-05-24T16:43:18+02:00</published><updated>2021-05-24T16:43:18+02:00</updated><id>https://elaoin.com/synth/2021/05/24/yusynth-synthacon-diy</id><content type="html" xml:base="https://elaoin.com/synth/2021/05/24/yusynth-synthacon-diy.html">&lt;p&gt;&lt;img src=&quot;/assets/synth/synthacon-assembled.png&quot; alt=&quot;YuSytnh Synthacon panel&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
 
@@ -142,8 +190,4 @@ version 1.0, download &lt;a title=&quot;OSCreamServer-1.0.jar&quot; href=&quot;h
 &lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
 &lt;p&gt;Visit &lt;a href=&quot;https://mutable-instruments.net&quot;&gt;Mutable Instruments&lt;/a&gt; website, who makes the Anushri synthesizer.&lt;/p&gt;</content><author><name></name></author><category term="software" /><category term="max" /><summary type="html"></summary></entry><entry><title type="html">Yakolo</title><link href="https://elaoin.com/freelance/2016/06/18/yakolo.html" rel="alternate" type="text/html" title="Yakolo" /><published>2016-06-18T11:58:18+02:00</published><updated>2016-06-18T11:58:18+02:00</updated><id>https://elaoin.com/freelance/2016/06/18/yakolo</id><content type="html" xml:base="https://elaoin.com/freelance/2016/06/18/yakolo.html">&lt;p&gt;&lt;img src=&quot;/assets/freelance/yakolo.png&quot; alt=&quot;Yakolo&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Yakolo est une app de contrôle à distance pour une veilleuse intelligente permettant aux jeunes enfants d’acquérir la notion du temps et de bonnes habitudes de sommeil.&lt;/p&gt;</content><author><name></name></author><category term="freelance" /><category term="mobile" /><summary type="html"></summary></entry><entry><title type="html">Runicity</title><link href="https://elaoin.com/freelance/2016/06/18/runicity.html" rel="alternate" type="text/html" title="Runicity" /><published>2016-06-18T11:58:18+02:00</published><updated>2016-06-18T11:58:18+02:00</updated><id>https://elaoin.com/freelance/2016/06/18/runicity</id><content type="html" xml:base="https://elaoin.com/freelance/2016/06/18/runicity.html">&lt;p&gt;&lt;img src=&quot;/assets/freelance/runicity-1.png&quot; alt=&quot;Runicity running&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/freelance/runicity-2.png&quot; alt=&quot;Runicity runs list&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Runicity est une app de course à pieds vous permettant de courir contre vos amis sur des parcours prédéfinis.&lt;/p&gt;</content><author><name></name></author><category term="freelance" /><category term="mobile" /><summary type="html"></summary></entry></feed>
+&lt;p&gt;Yakolo est une app de contrôle à distance pour une veilleuse intelligente permettant aux jeunes enfants d’acquérir la notion du temps et de bonnes habitudes de sommeil.&lt;/p&gt;</content><author><name></name></author><category term="freelance" /><category term="mobile" /><summary type="html"></summary></entry></feed>

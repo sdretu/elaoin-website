@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Titic Metronome Privacy Policy"
-date:   2026-09-06 22:25:18 +0100
+date:   2026-09-05 22:25:18 +0100
 tags: blog tictic
 ---
 Privacy Policy — Tictic Metronome
 
-Last updated: September 6, 2026
+Last updated: September 5, 2026
 
 Overview
 

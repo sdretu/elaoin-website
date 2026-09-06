@@ -20,7 +20,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Ruby on Rails web apps
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://elaoin.com" # the base hostname & protocol for your site, e.g. http://example.com
-mastodon_username: @elaoin@mastodon.social
 github_username:  Elaoin
 show_excerpts: true
 formspree_id: mlelknzd

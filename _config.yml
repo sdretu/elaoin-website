@@ -45,4 +45,9 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
-  - Rakefile
+
+# minima 2.5 still uses Sass features deprecated by Dart Sass
+# (@import, lighten(), / division). Silence the warnings they trigger.
+sass:
+  quiet_deps: true
+  silence_deprecations: [import, global-builtin, color-functions, slash-div]

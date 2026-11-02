@@ -11,7 +11,7 @@ ruby file: ".ruby-version"
 gem "jekyll", "~> 4.4"
 
 # The theme lives in this repository (_layouts, _includes, _sass). It started
-# as a copy of minima 2.5.2 (MIT, see _sass/minima/LICENSE.txt).
+# as a copy of minima 2.5.2 (MIT, see _sass/elaoin/LICENSE-minima.txt).
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.18"
   gem "jekyll-seo-tag", "~> 2.9"

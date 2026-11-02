@@ -15,7 +15,7 @@ gem "jekyll", "~> 4.4"
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.18"
   gem "jekyll-seo-tag", "~> 2.9"
-  gem "jekyll-formspree"
+  gem "jekyll-formspree", "~> 0.1"
 end
 
 # Local development server (`jekyll serve`), no longer bundled with Ruby 3+.

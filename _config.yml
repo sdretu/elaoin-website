@@ -21,6 +21,11 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://elaoin.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Elaoin
+mastodon:
+  - username: elaoin
+    instance: mastodon.social
+# instagram_username:
+# youtube_username:   # channel handle, without the @
 show_excerpts: true
 formspree_id: mlelknzd
 

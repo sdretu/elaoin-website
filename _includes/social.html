@@ -1,0 +1,16 @@
+{%- comment -%}
+  Social links, shown in the footer. Each one appears only when configured
+  in _config.yml:
+    github_username:    Elaoin
+    mastodon:           list of { username, instance }
+    instagram_username: ...
+    youtube_username:   ...   (channel handle, without the @)
+  Icons come from assets/social-icons.svg.
+{%- endcomment -%}
+{%- assign icons = '/assets/social-icons.svg' | relative_url -%}
+<ul class="social-media-list">
+  {%- if site.github_username -%}<li><a href="https://github.com/{{ site.github_username | cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ icons }}#github"></use></svg> <span class="username">{{ site.github_username | escape }}</span></a></li>{%- endif -%}
+  {%- for mst in site.mastodon -%}{%- if mst.username and mst.instance -%}<li><a rel="me" href="https://{{ mst.instance | cgi_escape | escape }}/@{{ mst.username | cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ icons }}#mastodon"></use></svg> <span class="username">{{ mst.username | escape }}</span></a></li>{%- endif -%}{%- endfor -%}
+  {%- if site.instagram_username -%}<li><a href="https://instagram.com/{{ site.instagram_username | cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ icons }}#instagram"></use></svg> <span class="username">{{ site.instagram_username | escape }}</span></a></li>{%- endif -%}
+  {%- if site.youtube_username -%}<li><a href="https://youtube.com/@{{ site.youtube_username | cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ icons }}#youtube"></use></svg> <span class="username">{{ site.youtube_username | escape }}</span></a></li>{%- endif -%}
+</ul>

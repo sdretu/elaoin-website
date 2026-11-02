@@ -1,0 +1,83 @@
+/**
+ * Full-height image tiles.
+ *
+ * Used by the home page (layout `start`: one tile per category, greyscale
+ * until hovered) and by category pages (layout `tiles`, add `.tiles--zoom`:
+ * three tiles per row, the image zooms in on hover).
+ * Each tile's image is set inline on `.bg` with `background-image`; on the
+ * home page each tile's width is set inline too (100% / number of categories).
+ */
+
+// Lets the mobile menu open on top of the tiles.
+.site-nav {
+  z-index: 3;
+}
+
+.start-page .switch {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.start-page .switch .switch-link {
+  display: inline-block;
+  position: relative;
+  overflow: hidden;
+  height: calc(100vh - 80px - 106px);
+  min-height: 520px;
+
+  .bg {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: grayscale(100%) brightness(70%) contrast(120%);
+    transition: filter 0.25s ease-in-out;
+
+    &:hover {
+      filter: grayscale(0%) brightness(90%) contrast(100%);
+    }
+  }
+
+  .title {
+    color: #fff;
+    position: absolute;
+    top: 50%;
+    display: block;
+    font-family: Arial-Black, Arial, sans-serif;
+    font-size: 34px;
+    line-height: 1em;
+    letter-spacing: normal;
+    text-align: center;
+    text-transform: uppercase;
+    pointer-events: none;
+    z-index: 3;
+    width: 100%;
+    transform: translateY(-50%);
+  }
+}
+
+// Category pages: three tiles per row, colour images that zoom on hover.
+.start-page.tiles--zoom .switch .switch-link {
+  width: calc(100% / 3);
+
+  .bg {
+    filter: none;
+    transform: scale(1);
+    transition: transform 0.25s ease-in-out;
+
+    &:hover {
+      filter: contrast(120%);
+      transform: scale(1.2);
+      transition: transform 0.75s ease-in-out;
+    }
+  }
+
+  .title {
+    top: 80%;
+  }
+}

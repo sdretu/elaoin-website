@@ -10,11 +10,11 @@ ruby file: ".ruby-version"
 # .github/workflows/pages.yml on every push to master.
 gem "jekyll", "~> 4.4"
 
-# Theme. Stay on minima 2.5.x: the custom layouts (start, tiles, synth,
-# fullwidth, category) and the footer override rely on its includes.
-gem "minima", "~> 2.5"
-
+# The theme lives in this repository (_layouts, _includes, _sass). It started
+# as a copy of minima 2.5.2 (MIT, see _sass/elaoin/LICENSE-minima.txt).
 group :jekyll_plugins do
+  gem "jekyll-feed", "~> 0.18"
+  gem "jekyll-seo-tag", "~> 2.9"
   gem "jekyll-formspree"
 end
 

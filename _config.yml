@@ -14,18 +14,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Elaoin
+tagline: "Soldered, coded, played. Mostly for fun."
 #email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Android & iOS mobile apps,  
-  Ruby on Rails web apps
+description: "Elaoin — a workshop for synths, apps and games."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://elaoin.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.elaoin.com" # the base hostname & protocol (matches CNAME)
 github_username:  Elaoin
 mastodon:
   - username: elaoin
     instance: mastodon.social
-# instagram_username:
-# youtube_username:   # channel handle, without the @
+instagram_username: elaoin_lab
+youtube_username: elaoin_lab # channel handle, without the @
 show_excerpts: true
 formspree_id: mlelknzd
 

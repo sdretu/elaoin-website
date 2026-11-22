@@ -8,6 +8,24 @@
  * home page each tile's width is set inline too (100% / number of categories).
  */
 
+@use "variables" as *;
+
+// Home page intro: tagline and short description, above the tiles.
+.intro {
+  padding: 3rem 0 2rem;
+  text-align: center;
+}
+
+.intro-tagline {
+  font-size: 2.2rem;
+  margin-bottom: .5rem;
+}
+
+.intro-description {
+  color: $grey-color;
+  margin: 0;
+}
+
 // Lets the mobile menu open on top of the tiles.
 .site-nav {
   z-index: 3;

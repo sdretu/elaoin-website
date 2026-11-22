@@ -1,189 +1,129 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="https://elaoin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://elaoin.com/" rel="alternate" type="text/html" /><updated>2026-09-06T23:11:12+02:00</updated><id>https://elaoin.com/feed.xml</id><title type="html">Elaoin</title><subtitle>Android &amp; iOS mobile apps,   Ruby on Rails web apps</subtitle><entry><title type="html">Tictic Metronome - Privacy Policy</title><link href="https://elaoin.com/2026/09/05/tictic-metronome-privacy-policy.html" rel="alternate" type="text/html" title="Tictic Metronome - Privacy Policy" /><published>2026-09-05T23:25:18+02:00</published><updated>2026-09-05T23:25:18+02:00</updated><id>https://elaoin.com/2026/09/05/tictic-metronome-privacy-policy</id><content type="html" xml:base="https://elaoin.com/2026/09/05/tictic-metronome-privacy-policy.html">&lt;p&gt;Last updated: September 5, 2026&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://www.elaoin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.elaoin.com/" rel="alternate" type="text/html" /><updated>2026-11-22T17:35:09+01:00</updated><id>https://www.elaoin.com/feed.xml</id><title type="html">Elaoin</title><subtitle>Elaoin — a workshop for synths, apps and games.</subtitle><entry><title type="html">YuSynth Synthacon DIY</title><link href="https://www.elaoin.com/synth/2021/05/24/yusynth-synthacon-diy.html" rel="alternate" type="text/html" title="YuSynth Synthacon DIY" /><published>2021-05-24T16:43:18+02:00</published><updated>2021-05-24T16:43:18+02:00</updated><id>https://www.elaoin.com/synth/2021/05/24/yusynth-synthacon-diy</id><content type="html" xml:base="https://www.elaoin.com/synth/2021/05/24/yusynth-synthacon-diy.html"><![CDATA[<p><img src="/assets/synth/synthacon-assembled.png" alt="YuSytnh Synthacon panel" /></p>
 
-&lt;p&gt;Tictic Metronome is a simple, standalone utility app. It does not collect, transmit, store, or share any personal data. This policy explains what the app does and does not do with respect to your privacy.&lt;/p&gt;
+<h2 id="links">Links</h2>
 
-&lt;!--more--&gt;
+<p>The module on <a href="https://www.modulargrid.net/e/other-unknown-synthacon-filter-yusynth">ModularGrid</a></p>]]></content><author><name></name></author><category term="synth" /><category term="eurorack" /><category term="utility" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Buchla Roman F Timbre Dual Panel</title><link href="https://www.elaoin.com/synth/2021/04/09/buchla-dual-timbre-panel.html" rel="alternate" type="text/html" title="Buchla Roman F Timbre Dual Panel" /><published>2021-04-09T16:43:18+02:00</published><updated>2021-04-09T16:43:18+02:00</updated><id>https://www.elaoin.com/synth/2021/04/09/buchla-dual-timbre-panel</id><content type="html" xml:base="https://www.elaoin.com/synth/2021/04/09/buchla-dual-timbre-panel.html"><![CDATA[<p><img src="/assets/synth/timbre-wavefolder-assembled.png" alt="Buchla Roman F Dual Timbre Wavefolder" /></p>
 
-&lt;h2 id=&quot;data-collection&quot;&gt;Data Collection&lt;/h2&gt;
+<h2 id="links">Links</h2>
 
-&lt;p&gt;Tictic Metronome collects no data of any kind.&lt;/p&gt;
+<p>The module on <a href="https://www.modulargrid.net/e/other-unknown-timbre-wavefolder">ModularGrid</a></p>]]></content><author><name></name></author><category term="synth" /><category term="eurorack" /><category term="panel" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">SOIC-DIP14 adapter</title><link href="https://www.elaoin.com/synth/2021/02/10/SOIC-DIP14-adapter.html" rel="alternate" type="text/html" title="SOIC-DIP14 adapter" /><published>2021-02-10T15:43:18+01:00</published><updated>2021-02-10T15:43:18+01:00</updated><id>https://www.elaoin.com/synth/2021/02/10/SOIC-DIP14-adapter</id><content type="html" xml:base="https://www.elaoin.com/synth/2021/02/10/SOIC-DIP14-adapter.html"><![CDATA[<p><img src="/assets/synth/soic-dip14.png" alt="A few adapters" /></p>
 
-&lt;p&gt;Specifically, the app does not:&lt;/p&gt;
+<p>SOICDIP14 adaptersI originally designed this small SOIC-DIP14 adapter to use LM3046 (available from mouser) as replacement for CA3046.</p>
 
-&lt;p&gt;• Collect personal information (name, email, location, etc.)
-• Use analytics SDKs or crash-reporting services
-• Transmit any data to external servers
-• Use advertising networks or tracking identifiers
-• Access your microphone, camera, contacts, or any other sensitive capability
-• Create user accounts or require sign-in&lt;/p&gt;
+<p>Of course it can be used to fit any SOIC14 ic into a DIP14 footprint.</p>
 
-&lt;p&gt;All state (BPM, tempo settings) is kept locally on your device and is never transmitted anywhere.&lt;/p&gt;
+<p>This project is open source (CC-by-SA), and boards can be ordered directly from OSHPark, it amounts to about 1$ per chip.</p>
 
-&lt;h2 id=&quot;apple-platform-features&quot;&gt;Apple Platform Features&lt;/h2&gt;
+<h2 id="build-instructions">Build Instructions</h2>
 
-&lt;p&gt;The app uses the following Apple platform features, all processed entirely on your device:&lt;/p&gt;
+<p>You need the two boards for one adapter, the top board holds the SMD, the bottom board holds the pins for the DIP socket
+Pins 1,2,6,7,8,9,13,14 go through both boards, pins 3,4,5,10,11,12 go only in the bottom board, they’re connected to the top through the six small holes in the middle, I use resistor or diode legs for the pins, on OSH, it amounts to a total of 1$ per adapter</p>
 
-&lt;p&gt;• Live Activity / Dynamic Island (iOS) — displays BPM on the Lock Screen; no data leaves the device
-• Haptic feedback (Apple Watch) — generates wrist vibrations locally; no data is involved
-• Control Center widget — provides quick access; no data is collected&lt;/p&gt;
+<h2 id="links">Links</h2>
 
-&lt;h2 id=&quot;third-party-services&quot;&gt;Third-Party Services&lt;/h2&gt;
+<p>Project available at <a href="https://oshpark.com/">OSHPark</a></p>
 
-&lt;p&gt;Tictic Metronome uses no third-party SDKs, analytics tools, or services. There are no in-app purchases, subscriptions, or advertisements.&lt;/p&gt;
+<p><a href="https://oshpark.com/projects/FCXaXJ2k">Top board</a></p>
 
-&lt;h2 id=&quot;childrens-privacy&quot;&gt;Children’s Privacy&lt;/h2&gt;
+<p><a href="https://oshpark.com/projects/wA9obdOT">Bottom board</a></p>]]></content><author><name></name></author><category term="synth" /><category term="diy" /><category term="tool" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Thomas White RLPG Dual Panel</title><link href="https://www.elaoin.com/synth/2021/02/09/thomas-white-rlpg-dual-panel.html" rel="alternate" type="text/html" title="Thomas White RLPG Dual Panel" /><published>2021-02-09T15:43:18+01:00</published><updated>2021-02-09T15:43:18+01:00</updated><id>https://www.elaoin.com/synth/2021/02/09/thomas-white-rlpg-dual-panel</id><content type="html" xml:base="https://www.elaoin.com/synth/2021/02/09/thomas-white-rlpg-dual-panel.html"><![CDATA[<p><img src="/assets/synth/thomas_white_rlpg_dual_panel.png" alt="Thomas White RLPG Dual Panel" /></p>
 
-&lt;p&gt;Because the app collects no data whatsoever, it is safe for users of all ages, including children under 13.&lt;/p&gt;
+<h2 id="links">Links</h2>
 
-&lt;h2 id=&quot;changes-to-this-policy&quot;&gt;Changes to This Policy&lt;/h2&gt;
+<p>The module on <a href="https://www.modulargrid.net/e/other-unknown-thomas-white-dual-resonant-lopass-gate--">ModularGrid</a></p>]]></content><author><name></name></author><category term="synth" /><category term="eurorack" /><category term="panel" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Triple Attenuator Mixer</title><link href="https://www.elaoin.com/synth/2021/02/08/triple-attenuator-mixer.html" rel="alternate" type="text/html" title="Triple Attenuator Mixer" /><published>2021-02-08T15:43:18+01:00</published><updated>2021-02-08T15:43:18+01:00</updated><id>https://www.elaoin.com/synth/2021/02/08/triple-attenuator-mixer</id><content type="html" xml:base="https://www.elaoin.com/synth/2021/02/08/triple-attenuator-mixer.html"><![CDATA[<p><img src="/assets/synth/3attmix-assembled-pcbs.png" alt="Triple Attenuator Mixer" /></p>
 
-&lt;p&gt;If the app ever introduces features that involve data, this policy will be updated before those features ship, and users will be notified via an App Store update.&lt;/p&gt;
+<p>A simple utility module that can be used as a 3 way mixer, or 3 separate attenuator, or one attenuator and a 2 way mixer.
+Eurorack</p>
 
-&lt;h2 id=&quot;contact&quot;&gt;Contact&lt;/h2&gt;
+<p>This is a simple 3 way mixer, with a passive attenuator for each of the three inputs, and a mix output with a main level potentiometer. Each input also has a dedicated output, when a jack is plugged into an output, the corresponding input is removed from the mix, and thus can be used as an independent passive attenuator. Hence this module can be used as a 3 voice mixer, or one passive attenuator and a two voice mixer, or three passive attenuators.</p>
 
-&lt;p&gt;Questions about this policy:
-&lt;a href=&quot;/about&quot;&gt;Contact us via our contact form&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="blog" /><category term="tictic" /><summary type="html">Last updated: September 5, 2026</summary></entry><entry><title type="html">YuSynth Synthacon DIY</title><link href="https://elaoin.com/synth/2021/05/24/yusynth-synthacon-diy.html" rel="alternate" type="text/html" title="YuSynth Synthacon DIY" /><published>2021-05-24T16:43:18+02:00</published><updated>2021-05-24T16:43:18+02:00</updated><id>https://elaoin.com/synth/2021/05/24/yusynth-synthacon-diy</id><content type="html" xml:base="https://elaoin.com/synth/2021/05/24/yusynth-synthacon-diy.html">&lt;p&gt;&lt;img src=&quot;/assets/synth/synthacon-assembled.png&quot; alt=&quot;YuSytnh Synthacon panel&quot; /&gt;&lt;/p&gt;
+<h2 id="specifications">Specifications</h2>
 
-&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+<ul>
+  <li>6HP wide</li>
+  <li>Eurorack standard compliant</li>
+  <li>Skiff friendly (2cm deep including power connector)</li>
+</ul>
 
-&lt;p&gt;The module on &lt;a href=&quot;https://www.modulargrid.net/e/other-unknown-synthacon-filter-yusynth&quot;&gt;ModularGrid&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="synth" /><category term="eurorack" /><category term="utility" /><summary type="html"></summary></entry><entry><title type="html">Buchla Roman F Timbre Dual Panel</title><link href="https://elaoin.com/synth/2021/04/09/buchla-dual-timbre-panel.html" rel="alternate" type="text/html" title="Buchla Roman F Timbre Dual Panel" /><published>2021-04-09T16:43:18+02:00</published><updated>2021-04-09T16:43:18+02:00</updated><id>https://elaoin.com/synth/2021/04/09/buchla-dual-timbre-panel</id><content type="html" xml:base="https://elaoin.com/synth/2021/04/09/buchla-dual-timbre-panel.html">&lt;p&gt;&lt;img src=&quot;/assets/synth/timbre-wavefolder-assembled.png&quot; alt=&quot;Buchla Roman F Dual Timbre Wavefolder&quot; /&gt;&lt;/p&gt;
+<h2 id="build-instructions">Build Instructions</h2>
 
-&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+<p>The build is rather straightforward: just solder everything in its right place and you’re done!</p>
 
-&lt;p&gt;The module on &lt;a href=&quot;https://www.modulargrid.net/e/other-unknown-timbre-wavefolder&quot;&gt;ModularGrid&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="synth" /><category term="eurorack" /><category term="panel" /><summary type="html"></summary></entry><entry><title type="html">SOIC-DIP14 adapter</title><link href="https://elaoin.com/synth/2021/02/10/SOIC-DIP14-adapter.html" rel="alternate" type="text/html" title="SOIC-DIP14 adapter" /><published>2021-02-10T15:43:18+01:00</published><updated>2021-02-10T15:43:18+01:00</updated><id>https://elaoin.com/synth/2021/02/10/SOIC-DIP14-adapter</id><content type="html" xml:base="https://elaoin.com/synth/2021/02/10/SOIC-DIP14-adapter.html">&lt;p&gt;&lt;img src=&quot;/assets/synth/soic-dip14.png&quot; alt=&quot;A few adapters&quot; /&gt;&lt;/p&gt;
+<h2 id="schematics-and-pcb-layout">Schematics and PCB Layout</h2>
 
-&lt;p&gt;SOICDIP14 adaptersI originally designed this small SOIC-DIP14 adapter to use LM3046 (available from mouser) as replacement for CA3046.&lt;/p&gt;
+<p>See in download section to get the sources from GitHub</p>
 
-&lt;p&gt;Of course it can be used to fit any SOIC14 ic into a DIP14 footprint.&lt;/p&gt;
+<h2 id="bom">BOM</h2>
 
-&lt;p&gt;This project is open source (CC-by-SA), and boards can be ordered directly from OSHPark, it amounts to about 1$ per chip.&lt;/p&gt;
+<ul>
+  <li>7 Erthenvar jacks</li>
+  <li>4 9mm pots (100k lin or log)</li>
+  <li>5 100K resistors</li>
+  <li>2 47K resistors</li>
+  <li>1 330r resistor</li>
+  <li>2 100n caps</li>
+  <li>2 47pf caps</li>
+  <li>1 tl072</li>
+  <li>1 euro power header 2 * 5</li>
+</ul>
 
-&lt;h2 id=&quot;build-instructions&quot;&gt;Build Instructions&lt;/h2&gt;
+<h2 id="links">Links</h2>
 
-&lt;p&gt;You need the two boards for one adapter, the top board holds the SMD, the bottom board holds the pins for the DIP socket
-Pins 1,2,6,7,8,9,13,14 go through both boards, pins 3,4,5,10,11,12 go only in the bottom board, they’re connected to the top through the six small holes in the middle, I use resistor or diode legs for the pins, on OSH, it amounts to a total of 1$ per adapter&lt;/p&gt;
+<p>Download the source from <a href="https://github.com/sdretu/Triple-Attenuator-Mixer">Github</a></p>
 
-&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+<p>The module on <a href="https://www.modulargrid.net/e/other-unknown-3-att-mix">ModularGrid</a></p>]]></content><author><name></name></author><category term="synth" /><category term="eurorack" /><category term="utility" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">OSCream</title><link href="https://www.elaoin.com/software/2017/06/18/oscream.html" rel="alternate" type="text/html" title="OSCream" /><published>2017-06-18T11:58:18+02:00</published><updated>2017-06-18T11:58:18+02:00</updated><id>https://www.elaoin.com/software/2017/06/18/oscream</id><content type="html" xml:base="https://www.elaoin.com/software/2017/06/18/oscream.html"><![CDATA[<p><img src="/assets/software/oscream.png" alt="OSCream" /></p>
 
-&lt;p&gt;Project available at &lt;a href=&quot;https://oshpark.com/&quot;&gt;OSHPark&lt;/a&gt;&lt;/p&gt;
+<p>OSCream is a music app that turns a touchscreen into an OSC controller emulating the monome grid and arc.</p>
 
-&lt;p&gt;&lt;a href=&quot;https://oshpark.com/projects/FCXaXJ2k&quot;&gt;Top board&lt;/a&gt;&lt;/p&gt;
+<video width="400" controls="" autoplay="">
+    <source src="/assets/software/oscream-edm.mov" type="video/quicktime" />
+</video>
 
-&lt;p&gt;&lt;a href=&quot;https://oshpark.com/projects/wA9obdOT&quot;&gt;Bottom board&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="synth" /><category term="diy" /><category term="tool" /><summary type="html"></summary></entry><entry><title type="html">Thomas White RLPG Dual Panel</title><link href="https://elaoin.com/synth/2021/02/09/thomas-white-rlpg-dual-panel.html" rel="alternate" type="text/html" title="Thomas White RLPG Dual Panel" /><published>2021-02-09T15:43:18+01:00</published><updated>2021-02-09T15:43:18+01:00</updated><id>https://elaoin.com/synth/2021/02/09/thomas-white-rlpg-dual-panel</id><content type="html" xml:base="https://elaoin.com/synth/2021/02/09/thomas-white-rlpg-dual-panel.html">&lt;p&gt;&lt;img src=&quot;/assets/synth/thomas_white_rlpg_dual_panel.png&quot; alt=&quot;Thomas White RLPG Dual Panel&quot; /&gt;&lt;/p&gt;
+<h2 id="the-story-so-far">The story so far</h2>
 
-&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+<p><strong>2011: BlackBerry PlayBook.</strong> OSCream started as my first app for the BlackBerry PlayBook, written in ActionScript with Adobe AIR, two things I had never touched before. The first version shipped on BlackBerry App World in March 2011 with a single surface, an 8×8 grid emulating the monome 64, tested with monome patches in Max and Pure Data. A few weeks later came a beta of the arc surface, played with arc patches such as Plates.</p>
 
-&lt;p&gt;The module on &lt;a href=&quot;https://www.modulargrid.net/e/other-unknown-thomas-white-dual-resonant-lopass-gate--&quot;&gt;ModularGrid&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="synth" /><category term="eurorack" /><category term="panel" /><summary type="html"></summary></entry><entry><title type="html">Triple Attenuator Mixer</title><link href="https://elaoin.com/synth/2021/02/08/triple-attenuator-mixer.html" rel="alternate" type="text/html" title="Triple Attenuator Mixer" /><published>2021-02-08T15:43:18+01:00</published><updated>2021-02-08T15:43:18+01:00</updated><id>https://elaoin.com/synth/2021/02/08/triple-attenuator-mixer</id><content type="html" xml:base="https://elaoin.com/synth/2021/02/08/triple-attenuator-mixer.html">&lt;p&gt;&lt;img src=&quot;/assets/synth/3attmix-assembled-pcbs.png&quot; alt=&quot;Triple Attenuator Mixer&quot; /&gt;&lt;/p&gt;
+<p><strong>2012: Android.</strong> Since Adobe AIR also ran on Android, OSCream followed in January 2012 as a beta for Android phones, with both the grid and arc emulators. It needed a fairly powerful device, but it ran well.</p>
 
-&lt;p&gt;A simple utility module that can be used as a 3 way mixer, or 3 separate attenuator, or one attenuator and a 2 way mixer.
-Eurorack&lt;/p&gt;
+<p><strong>2014: the end of the line.</strong> In 2014 BlackBerry announced that Adobe AIR would no longer be supported on BB10. Keeping an AIR app alive for Android alone, with all the limits of the platform, no longer made sense, so I stopped working on OSCream. It has since disappeared from the stores.</p>
 
-&lt;p&gt;This is a simple 3 way mixer, with a passive attenuator for each of the three inputs, and a mix output with a main level potentiometer. Each input also has a dedicated output, when a jack is plugged into an output, the corresponding input is removed from the mix, and thus can be used as an independent passive attenuator. Hence this module can be used as a 3 voice mixer, or one passive attenuator and a two voice mixer, or three passive attenuators.&lt;/p&gt;
+<p><strong>Next: back in Swift.</strong> The idea never went away. OSCream is coming back, rewritten from scratch in Swift for Apple devices. More news here when there is something to play with.</p>]]></content><author><name></name></author><category term="software" /><category term="mobile" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Anushri Editor</title><link href="https://www.elaoin.com/software/2016/09/18/anushri-editor.html" rel="alternate" type="text/html" title="Anushri Editor" /><published>2016-09-18T11:58:18+02:00</published><updated>2016-09-18T11:58:18+02:00</updated><id>https://www.elaoin.com/software/2016/09/18/anushri-editor</id><content type="html" xml:base="https://www.elaoin.com/software/2016/09/18/anushri-editor.html"><![CDATA[<p><img src="/assets/software/anushri-editor.png" alt="Anushri Editor" /></p>
 
-&lt;h2 id=&quot;specifications&quot;&gt;Specifications&lt;/h2&gt;
+<p>This is a software MIDI editor for <a href="https://mutable-instruments.net">Mutable Instruments</a>’s awesome DIY synthesizer-beatbox, the Anushri.</p>
 
-&lt;ul&gt;
-  &lt;li&gt;6HP wide&lt;/li&gt;
-  &lt;li&gt;Eurorack standard compliant&lt;/li&gt;
-  &lt;li&gt;Skiff friendly (2cm deep including power connector)&lt;/li&gt;
-&lt;/ul&gt;
+<p>This stand-alone software was entirely done using MAX 6 software from Cycling74.</p>
 
-&lt;h2 id=&quot;build-instructions&quot;&gt;Build Instructions&lt;/h2&gt;
+<p>It allows edition of all the Anushri parameters from a single screen through a MIDI connection, including parameters of the drum synth engine which are not accessible from the Anushri interface.</p>
 
-&lt;p&gt;The build is rather straightforward: just solder everything in its right place and you’re done!&lt;/p&gt;
+<p>It also offers an easy access to programmin drum patterns in x0x style.</p>
 
-&lt;h2 id=&quot;schematics-and-pcb-layout&quot;&gt;Schematics and PCB Layout&lt;/h2&gt;
+<p>It can send and receive system data in SYSEX format.</p>
 
-&lt;p&gt;See in download section to get the sources from GitHub&lt;/p&gt;
+<p>Last but not least, the editor is open-source and the MAX project files can be downloaded from my GitHub.</p>
 
-&lt;h2 id=&quot;bom&quot;&gt;BOM&lt;/h2&gt;
+<h2 id="downloads">Downloads</h2>
+<p>source on <a href="https://github.com/sdretu/Anushri-Editor">Github</a></p>
 
-&lt;ul&gt;
-  &lt;li&gt;7 Erthenvar jacks&lt;/li&gt;
-  &lt;li&gt;4 9mm pots (100k lin or log)&lt;/li&gt;
-  &lt;li&gt;5 100K resistors&lt;/li&gt;
-  &lt;li&gt;2 47K resistors&lt;/li&gt;
-  &lt;li&gt;1 330r resistor&lt;/li&gt;
-  &lt;li&gt;2 100n caps&lt;/li&gt;
-  &lt;li&gt;2 47pf caps&lt;/li&gt;
-  &lt;li&gt;1 tl072&lt;/li&gt;
-  &lt;li&gt;1 euro power header 2 * 5&lt;/li&gt;
-&lt;/ul&gt;
+<p><a href="/assets/software/Anushri_Editor.app.zip">App package for OSX</a>, unzip and just drag and drop to your Applications folder.</p>
 
-&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+<h2 id="links">Links</h2>
+<p>Visit <a href="https://mutable-instruments.net">Mutable Instruments</a> website, who makes the Anushri synthesizer.</p>]]></content><author><name></name></author><category term="software" /><category term="max" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Shruthi-1 Editor</title><link href="https://www.elaoin.com/software/2014/06/18/shruthi-1-editor.html" rel="alternate" type="text/html" title="Shruthi-1 Editor" /><published>2014-06-18T11:58:18+02:00</published><updated>2014-06-18T11:58:18+02:00</updated><id>https://www.elaoin.com/software/2014/06/18/shruthi-1-editor</id><content type="html" xml:base="https://www.elaoin.com/software/2014/06/18/shruthi-1-editor.html"><![CDATA[<p><img src="/assets/software/shruthi-1-editor.png" alt="Shruthi-1 Editor" /></p>
 
-&lt;p&gt;Download the source from &lt;a href=&quot;https://github.com/sdretu/Triple-Attenuator-Mixer&quot;&gt;Github&lt;/a&gt;&lt;/p&gt;
+<p>This is a software MIDI editor for <a href="https://mutable-instruments.net">Mutable Instruments</a>’s awesome DIY synthesizer, the Shruthi-1.</p>
 
-&lt;p&gt;The module on &lt;a href=&quot;https://www.modulargrid.net/e/other-unknown-3-att-mix&quot;&gt;ModularGrid&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="synth" /><category term="eurorack" /><category term="utility" /><summary type="html"></summary></entry><entry><title type="html">SomnoDiag</title><link href="https://elaoin.com/freelance/2018/03/18/somnodiag.html" rel="alternate" type="text/html" title="SomnoDiag" /><published>2018-03-18T10:58:18+01:00</published><updated>2018-03-18T10:58:18+01:00</updated><id>https://elaoin.com/freelance/2018/03/18/somnodiag</id><content type="html" xml:base="https://elaoin.com/freelance/2018/03/18/somnodiag.html">&lt;p&gt;&lt;img src=&quot;/assets/freelance/somnodiag-2.png&quot; alt=&quot;Somnodiag&quot; /&gt;&lt;/p&gt;
+<p>This stand-alone software was entirely done using MAX 6 software from Cycling74.</p>
 
-&lt;p&gt;SomnoDiag aide les médecins aux diagnostics des troubles du sommeils.&lt;/p&gt;
+<p>It allows edition of all the Shruthi-1 parameters from a single screen through a MIDI connection.</p>
 
-&lt;p&gt;&lt;img src=&quot;/assets/freelance/somnodiag-1.png&quot; alt=&quot;Somnodiag&quot; /&gt;&lt;/p&gt;
+<p>It can send and receive patch data in SYSEX format.</p>
 
-&lt;p&gt;&lt;img src=&quot;/assets/freelance/somnodiag-3.png&quot; alt=&quot;Somnodiag&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="freelance" /><category term="website" /><category term="ruby-on-rails" /><summary type="html"></summary></entry><entry><title type="html">OSCream</title><link href="https://elaoin.com/software/2017/06/18/oscream.html" rel="alternate" type="text/html" title="OSCream" /><published>2017-06-18T11:58:18+02:00</published><updated>2017-06-18T11:58:18+02:00</updated><id>https://elaoin.com/software/2017/06/18/oscream</id><content type="html" xml:base="https://elaoin.com/software/2017/06/18/oscream.html">&lt;p&gt;&lt;img src=&quot;/assets/software/oscream.png&quot; alt=&quot;OSCream&quot; /&gt;&lt;/p&gt;
+<p>Last but not least, the editor is open-source and the MAX project files can be downloaded from my GitHub.</p>
 
-&lt;p&gt;OSCream est une application musicale reproduisant le fonctionnement des contrôleurs Monome Grid et Arc.&lt;/p&gt;
+<h2 id="downloads">Downloads</h2>
+<p>Download the source from <a href="https://github.com/sdretu/Shruthi-1-Editor">GitHub</a></p>
 
-&lt;video width=&quot;400&quot; controls=&quot;&quot; autoplay=&quot;&quot;&gt;
-    &lt;source src=&quot;/assets/software/oscream-edm.mov&quot; type=&quot;video/mp4&quot; /&gt;
-&lt;/video&gt;
+<p><a href="/assets/software/Shruthi-1_Editor.app.zip">Download the App package for OSX</a>, unzip and just drag and drop to your Applications folder.</p>
 
-&lt;h2 id=&quot;oscream-server&quot;&gt;OSCream Server&lt;/h2&gt;
-&lt;p&gt;OSCream Server is used to forward OSC Message between TCP protocol and UDP protocol.&lt;/p&gt;
+<h2 id="links">Links</h2>
+<p>Visit <a href="https://mutable-instruments.net">Mutable Instruments</a> website, who makes the Shruthi-1 synthesizer.</p>
 
-&lt;p&gt;On the PlayBook, OSCream is developped in Adobe AIR environment, for security reasons UDP communication is disabled in AIR on mobile devices, so OSCream send its OSC Messages over TCP. But most monome applications are designed to exchange OSC messages over UDP, so a tool is needed to allow application to communicate with the PlayBook, OSCreamServer does just that.&lt;/p&gt;
-
-&lt;p&gt;OSCream Server is programmed in Java, so it will run on any machine where a Java Runtime Environment is available, you will need Java version 1.6. OSCreamServer is distributed as a single JAR file, to run OSCreamServer, simply double-click on the JAR file icon.&lt;/p&gt;
-
-&lt;h2 id=&quot;downloads&quot;&gt;Downloads&lt;/h2&gt;
-&lt;p&gt;OSCream is still available on Android, though it is not supported anymore. &lt;a href=&quot;https://market.android.com/details?id=air.org.smugrik.oscream&quot;&gt;Get it on Google Play&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;latest version is 1.1, download &lt;a title=&quot;OSCreamServer-1.1.jar&quot; href=&quot;https://github.com/downloads/sdretu/OSCream-Server/OSCreamServer-1.1.jar&quot;&gt;OSCreamServer-1.1.jar&lt;/a&gt; now from our GitHub repository.
-version 1.0, download &lt;a title=&quot;OSCreamServer-1.0.jar&quot; href=&quot;https://github.com/downloads/sdretu/OSCream-Server/OSCreamServer-1.0.jar&quot;&gt;OSCreamServer-1.0.jar&lt;/a&gt; now from our GitHub repository.&lt;/p&gt;
-
-&lt;p&gt;OSCream Server source code is available on &lt;a title=&quot;OSCream Server on GitHub&quot; href=&quot;https://github.com/sdretu/OSCream-Server&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;related-blog-articles&quot;&gt;Related blog articles&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;/2014/04/20/oscream-discontinued.html&quot;&gt;OSCream discontinued&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;/2012/01/08/oscream-lands-on-android.html&quot;&gt;OSCream lands on Android&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;/2011/04/12/monome-arc-surfaces-for-oscream.html&quot;&gt;Monome Arc surfaces for OSCream&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;/2011/03/30/tutorial-getting-started-with-oscream-on-the-blackberry-playbook.html&quot;&gt;Tutorial: getting started with OSCream on the BlackBerry PlayBook&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;/2011/03/27/oscream-server.html&quot;&gt;OSCream Server&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;/2011/03/24/oscream-published-on-blackberry-appworld.html&quot;&gt;OSCream published on BlackBerry AppWorld&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="software" /><category term="mobile" /><summary type="html"></summary></entry><entry><title type="html">Anushri Editor</title><link href="https://elaoin.com/software/2016/09/18/anushri-editor.html" rel="alternate" type="text/html" title="Anushri Editor" /><published>2016-09-18T11:58:18+02:00</published><updated>2016-09-18T11:58:18+02:00</updated><id>https://elaoin.com/software/2016/09/18/anushri-editor</id><content type="html" xml:base="https://elaoin.com/software/2016/09/18/anushri-editor.html">&lt;p&gt;&lt;img src=&quot;/assets/software/anushri-editor.png&quot; alt=&quot;Anushri Editor&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;This is a software MIDI editor for &lt;a href=&quot;https://mutable-instruments.net&quot;&gt;Mutable Instruments&lt;/a&gt;’s awesome DIY synthesizer-beatbox, the Anushri.&lt;/p&gt;
-
-&lt;p&gt;This stand-alone software was entirely done using MAX 6 software from Cycling74.&lt;/p&gt;
-
-&lt;p&gt;It allows edition of all the Anushri parameters from a single screen through a MIDI connection, including parameters of the drum synth engine which are not accessible from the Anushri interface.&lt;/p&gt;
-
-&lt;p&gt;It also offers an easy access to programmin drum patterns in x0x style.&lt;/p&gt;
-
-&lt;p&gt;It can send and receive system data in SYSEX format.&lt;/p&gt;
-
-&lt;p&gt;Last but not least, the editor is open-source and the MAX project files can be downloaded from my GitHub.&lt;/p&gt;
-
-&lt;h2 id=&quot;downloads&quot;&gt;Downloads&lt;/h2&gt;
-&lt;p&gt;source on &lt;a href=&quot;https://github.com/sdretu/Anushri-Editor&quot;&gt;Github&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/assets/software/Anushri_Editor.app.zip&quot;&gt;App package for OSX&lt;/a&gt;, unzip and just drag and drop to your Applications folder.&lt;/p&gt;
-
-&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
-&lt;p&gt;Visit &lt;a href=&quot;https://mutable-instruments.net&quot;&gt;Mutable Instruments&lt;/a&gt; website, who makes the Anushri synthesizer.&lt;/p&gt;</content><author><name></name></author><category term="software" /><category term="max" /><summary type="html"></summary></entry><entry><title type="html">Yakolo</title><link href="https://elaoin.com/freelance/2016/06/18/yakolo.html" rel="alternate" type="text/html" title="Yakolo" /><published>2016-06-18T11:58:18+02:00</published><updated>2016-06-18T11:58:18+02:00</updated><id>https://elaoin.com/freelance/2016/06/18/yakolo</id><content type="html" xml:base="https://elaoin.com/freelance/2016/06/18/yakolo.html">&lt;p&gt;&lt;img src=&quot;/assets/freelance/yakolo.png&quot; alt=&quot;Yakolo&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Yakolo est une app de contrôle à distance pour une veilleuse intelligente permettant aux jeunes enfants d’acquérir la notion du temps et de bonnes habitudes de sommeil.&lt;/p&gt;</content><author><name></name></author><category term="freelance" /><category term="mobile" /><summary type="html"></summary></entry></feed>
+<p>Project page in <a href="http://cycling74.com/toolbox/shruthi-1-editor">Cycling 74 toolbox</a>.</p>]]></content><author><name></name></author><category term="software" /><category term="max" /><summary type="html"><![CDATA[]]></summary></entry></feed>
